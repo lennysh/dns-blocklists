@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking eBay
 ! Source: AdGuard Hostlists Registry
 ! Service ID: ebay
-! Generated: 2026-01-10 15:00:45 UTC
+! Generated: 2026-01-10 15:03:39 UTC
 !
 ! This filter blocks domains related to eBay
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json

@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking TikTok
 ! Source: AdGuard Hostlists Registry
 ! Service ID: tiktok
-! Generated: 2026-01-10 15:00:47 UTC
+! Generated: 2026-01-10 15:03:42 UTC
 !
 ! This filter blocks domains related to TikTok
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json

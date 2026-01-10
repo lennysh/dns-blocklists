@@ -127,7 +127,8 @@ echo -e "${BLUE}Generating README.md with raw URLs...${NC}"
             if [ -z "${service_name}" ]; then
                 service_name="${service_id}"
             fi
-            echo "| ${service_name} | \`${RAW_URL_BASE}/${filename}\` |"
+            raw_url="${RAW_URL_BASE}/${filename}"
+            echo "| [${service_name}](${raw_url}) | \`${raw_url}\` |"
         fi
     done
     
