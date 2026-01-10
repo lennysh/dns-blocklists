@@ -10,6 +10,8 @@ SERVICES_JSON_URL="https://adguardteam.github.io/HostlistsRegistry/assets/servic
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 OUTPUT_DIR="${SCRIPT_DIR}/service-filters"
 TEMP_JSON="${SCRIPT_DIR}/services.json.tmp"
+README_FILE="${OUTPUT_DIR}/README.md"
+RAW_URL_BASE="https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters"
 
 # Colors for output
 GREEN='\033[0;32m'
@@ -95,6 +97,65 @@ done <<< "${SERVICE_IDS}"
 
 # Clean up temp file
 rm -f "${TEMP_JSON}"
+
+# Generate README.md with all raw URLs
+echo -e "${BLUE}Generating README.md with raw URLs...${NC}"
+
+{
+    echo "# Service Filter Blocklists"
+    echo ""
+    echo "Individual DNS blocklists for specific services. Copy the raw URL for any service you want to block."
+    echo ""
+    echo "> **Note:** This file is auto-generated. Do not edit manually."
+    echo ">"
+    echo "> **Last updated:** $(date -u +"%Y-%m-%d %H:%M:%S UTC")"
+    echo ""
+    echo "## Quick Copy URLs"
+    echo ""
+    echo "Click on a service name to view the filter, or copy the raw URL to add to your DNS blocker."
+    echo ""
+    echo "| Service | Raw URL |"
+    echo "|---------|---------|"
+    
+    # List all .txt files and generate table rows
+    for filter_file in "${OUTPUT_DIR}"/*.txt; do
+        if [ -f "${filter_file}" ]; then
+            filename=$(basename "${filter_file}")
+            service_id="${filename%.txt}"
+            # Extract the service name from the filter file header
+            service_name=$(grep "^! Title:" "${filter_file}" | sed 's/^! Title: //' | sed 's/ Block List$//')
+            if [ -z "${service_name}" ]; then
+                service_name="${service_id}"
+            fi
+            echo "| ${service_name} | \`${RAW_URL_BASE}/${filename}\` |"
+        fi
+    done
+    
+    echo ""
+    echo "---"
+    echo ""
+    echo "## Usage"
+    echo ""
+    echo "### AdGuard Home"
+    echo "1. Go to **Filters** → **DNS blocklists**"
+    echo "2. Click **Add blocklist** → **Add a custom list**"
+    echo "3. Paste any raw URL from above"
+    echo ""
+    echo "### Pi-hole"
+    echo "1. Go to **Adlists**"
+    echo "2. Paste the raw URL and click **Add**"
+    echo "3. Run \`pihole -g\` to update"
+    echo ""
+    echo "### Technitium DNS Server"
+    echo "1. Go to **Apps** → **Advanced Blocking**"
+    echo "2. Add the raw URL as a blocklist"
+    echo ""
+    echo "---"
+    echo ""
+    echo "**Total blocklists available:** $(ls -1 "${OUTPUT_DIR}"/*.txt 2>/dev/null | wc -l)"
+} > "${README_FILE}"
+
+echo -e "${GREEN}✓ Generated README.md${NC}"
 
 echo ""
 echo -e "${GREEN}✓ Generation complete!${NC}"

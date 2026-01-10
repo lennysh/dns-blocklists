@@ -1,6 +1,6 @@
-# lennysh-blocklists
+# dns-blocklists
 
-[![Update Blocklists](https://github.com/lennysh/lennysh-blocklists/actions/workflows/update-blocklists.yml/badge.svg)](https://github.com/lennysh/lennysh-blocklists/actions/workflows/update-blocklists.yml)
+[![Update Blocklists](https://github.com/lennysh/dns-blocklists/actions/workflows/update-blocklists.yml/badge.svg)](https://github.com/lennysh/dns-blocklists/actions/workflows/update-blocklists.yml)
 
 Per-service DNS blocklists generated from the [AdGuard Hostlists Registry](https://github.com/AdguardTeam/HostlistsRegistry). Block individual services like TikTok, Discord, or gaming platforms at the DNS level.
 
@@ -37,14 +37,14 @@ Perfect for:
 Use raw GitHub URLs to subscribe to blocklists in your DNS server:
 
 ```
-https://raw.githubusercontent.com/lennysh/lennysh-blocklists/main/service-filters/{service}.txt
+https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/{service}.txt
 ```
 
 **Example URLs:**
 ```
-https://raw.githubusercontent.com/lennysh/lennysh-blocklists/main/service-filters/tiktok.txt
-https://raw.githubusercontent.com/lennysh/lennysh-blocklists/main/service-filters/discord.txt
-https://raw.githubusercontent.com/lennysh/lennysh-blocklists/main/service-filters/instagram.txt
+https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/tiktok.txt
+https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/discord.txt
+https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/instagram.txt
 ```
 
 ### AdGuard Home

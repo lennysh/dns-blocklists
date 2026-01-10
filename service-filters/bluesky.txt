@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Bluesky
 ! Source: AdGuard Hostlists Registry
 ! Service ID: bluesky
-! Generated: 2026-01-10 14:43:17 UTC
+! Generated: 2026-01-10 15:00:44 UTC
 !
 ! This filter blocks domains related to Bluesky
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
