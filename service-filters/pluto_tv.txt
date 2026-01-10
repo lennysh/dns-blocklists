@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Pluto TV
 ! Source: AdGuard Hostlists Registry
 ! Service ID: pluto_tv
-! Generated: 2026-01-10 15:03:41 UTC
+! Generated: 2026-01-10 15:06:46 UTC
 !
 ! This filter blocks domains related to Pluto TV
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json

@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Nvidia
 ! Source: AdGuard Hostlists Registry
 ! Service ID: nvidia
-! Generated: 2026-01-10 15:03:41 UTC
+! Generated: 2026-01-10 15:06:45 UTC
 !
 ! This filter blocks domains related to Nvidia
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json

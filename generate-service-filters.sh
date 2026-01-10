@@ -98,6 +98,41 @@ done <<< "${SERVICE_IDS}"
 # Clean up temp file
 rm -f "${TEMP_JSON}"
 
+# Generate all.txt with all rules combined
+echo -e "${BLUE}Generating all.txt (combined blocklist)...${NC}"
+ALL_FILE="${OUTPUT_DIR}/all.txt"
+{
+    echo "! Title: All Services Block List"
+    echo "! Description: Combined AdGuard filter rules for blocking ALL services"
+    echo "! Source: AdGuard Hostlists Registry"
+    echo "! Generated: $(date -u +"%Y-%m-%d %H:%M:%S UTC")"
+    echo "!"
+    echo "! This filter blocks domains for ALL available services."
+    echo "! For individual service blocklists, see the README.md"
+    echo "!"
+    echo ""
+    
+    # Combine all rules from all .txt files (excluding comments and empty lines)
+    for filter_file in "${OUTPUT_DIR}"/*.txt; do
+        filename=$(basename "${filter_file}")
+        # Skip all.txt itself if it exists from a previous run
+        if [ "${filename}" = "all.txt" ]; then
+            continue
+        fi
+        if [ -f "${filter_file}" ]; then
+            # Add a comment indicating which service these rules are from
+            service_name=$(grep "^! Title:" "${filter_file}" | sed 's/^! Title: //' | sed 's/ Block List$//')
+            echo "! === ${service_name} ==="
+            # Add the rules (excluding header comments)
+            grep -v '^!' "${filter_file}" | grep -v '^$'
+            echo ""
+        fi
+    done
+} > "${ALL_FILE}"
+
+ALL_RULE_COUNT=$(grep -v '^!' "${ALL_FILE}" | grep -v '^$' | wc -l)
+echo -e "${GREEN}✓ Generated all.txt (${ALL_RULE_COUNT} total rules)${NC}"
+
 # Generate README.md with all raw URLs
 echo -e "${BLUE}Generating README.md with raw URLs...${NC}"
 
@@ -110,7 +145,17 @@ echo -e "${BLUE}Generating README.md with raw URLs...${NC}"
     echo ">"
     echo "> **Last updated:** $(date -u +"%Y-%m-%d %H:%M:%S UTC")"
     echo ""
-    echo "## Quick Copy URLs"
+    echo "## Block Everything"
+    echo ""
+    echo "Want to block ALL services at once? Use the combined blocklist:"
+    echo ""
+    echo "| Description | Raw URL |"
+    echo "|-------------|---------|"
+    echo "| **All Services Combined** (${ALL_RULE_COUNT} rules) | \`${RAW_URL_BASE}/all.txt\` |"
+    echo ""
+    echo "---"
+    echo ""
+    echo "## Individual Service Blocklists"
     echo ""
     echo "Click on a service name to view the filter, or copy the raw URL to add to your DNS blocker."
     echo ""
@@ -153,7 +198,23 @@ echo -e "${BLUE}Generating README.md with raw URLs...${NC}"
     echo ""
     echo "---"
     echo ""
-    echo "**Total blocklists available:** $(ls -1 "${OUTPUT_DIR}"/*.txt 2>/dev/null | wc -l)"
+    echo "## All URLs (Plain Text)"
+    echo ""
+    echo "Copy-paste friendly list of all blocklist URLs:"
+    echo ""
+    echo "\`\`\`"
+    echo "${RAW_URL_BASE}/all.txt"
+    for filter_file in "${OUTPUT_DIR}"/*.txt; do
+        filename=$(basename "${filter_file}")
+        if [ "${filename}" != "all.txt" ] && [ -f "${filter_file}" ]; then
+            echo "${RAW_URL_BASE}/${filename}"
+        fi
+    done
+    echo "\`\`\`"
+    echo ""
+    echo "---"
+    echo ""
+    echo "**Total blocklists available:** $(ls -1 "${OUTPUT_DIR}"/*.txt 2>/dev/null | wc -l) (including all.txt)"
 } > "${README_FILE}"
 
 echo -e "${GREEN}✓ Generated README.md${NC}"
