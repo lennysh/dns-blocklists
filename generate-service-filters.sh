@@ -200,10 +200,9 @@ echo -e "${BLUE}Generating README.md with raw URLs...${NC}"
     echo ""
     echo "## All URLs (Plain Text)"
     echo ""
-    echo "Copy-paste friendly list of all blocklist URLs:"
+    echo "Copy-paste friendly list of individual blocklist URLs. Remove any you don't want to block:"
     echo ""
     echo "\`\`\`"
-    echo "${RAW_URL_BASE}/all.txt"
     for filter_file in "${OUTPUT_DIR}"/*.txt; do
         filename=$(basename "${filter_file}")
         if [ "${filename}" != "all.txt" ] && [ -f "${filter_file}" ]; then

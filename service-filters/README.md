@@ -4,7 +4,7 @@ Individual DNS blocklists for specific services. Copy the raw URL for any servic
 
 > **Note:** This file is auto-generated. Do not edit manually.
 >
-> **Last updated:** 2026-01-10 15:06:49 UTC
+> **Last updated:** 2026-01-10 15:10:51 UTC
 
 ## Block Everything
 
@@ -173,10 +173,9 @@ Click on a service name to view the filter, or copy the raw URL to add to your D
 
 ## All URLs (Plain Text)
 
-Copy-paste friendly list of all blocklist URLs:
+Copy-paste friendly list of individual blocklist URLs. Remove any you don't want to block:
 
 ```
-https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/all.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/4chan.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/500px.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/9gag.txt
