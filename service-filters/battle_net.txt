@@ -1,0 +1,14 @@
+! Title: Battle.net Block List
+! Description: AdGuard filter rules for blocking Battle.net
+! Source: AdGuard Hostlists Registry
+! Service ID: battle_net
+! Generated: 2026-01-10 14:33:34 UTC
+!
+! This filter blocks domains related to Battle.net
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||battle.net^
+||battlenet.com.cn^
+||bnet.163.com^
+||bnet.cn^

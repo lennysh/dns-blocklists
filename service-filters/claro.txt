@@ -1,0 +1,32 @@
+! Title: Claro Block List
+! Description: AdGuard filter rules for blocking Claro
+! Source: AdGuard Hostlists Registry
+! Service ID: claro
+! Generated: 2026-01-10 14:33:34 UTC
+!
+! This filter blocks domains related to Claro
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||claro.com^
+||claro.net.br^
+||claro.net.co^
+||claro.com.ar^
+||claro.com.br^
+||clarochile.cl^
+||claro.com.co^
+||claro.cr^
+||claro.com.ec^
+||claro.com.sv^
+||claro.com.gt^
+||claro.com.hn^
+||claro.com.ni^
+||claro.com.pa^
+||claro.com.py^
+||claro.com.pe^
+||claropr.com^
+||claro.com.do^
+||claro.com.uy^
+||usclaro.com^
+||claromusica.com^
+||clarovideo.com^

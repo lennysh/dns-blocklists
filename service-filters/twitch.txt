@@ -1,0 +1,16 @@
+! Title: Twitch Block List
+! Description: AdGuard filter rules for blocking Twitch
+! Source: AdGuard Hostlists Registry
+! Service ID: twitch
+! Generated: 2026-01-10 14:33:37 UTC
+!
+! This filter blocks domains related to Twitch
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||ext-twitch.tv^
+||jtvnw.net^
+||ttvnw.net^
+||twitch.tv^
+||twitchcdn.net^
+||twitchsvc.net^

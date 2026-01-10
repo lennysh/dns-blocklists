@@ -1,0 +1,16 @@
+! Title: OK.ru Block List
+! Description: AdGuard filter rules for blocking OK.ru
+! Source: AdGuard Hostlists Registry
+! Service ID: ok
+! Generated: 2026-01-10 14:33:36 UTC
+!
+! This filter blocks domains related to OK.ru
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||ok.ru^
+||insideok.ru^
+||ok.games^
+||okcdn.ru^
+||oktech.ru^
+||st.mycdn.me^

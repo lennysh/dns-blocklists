@@ -1,0 +1,23 @@
+! Title: Roblox Block List
+! Description: AdGuard filter rules for blocking Roblox
+! Source: AdGuard Hostlists Registry
+! Service ID: roblox
+! Generated: 2026-01-10 14:33:37 UTC
+!
+! This filter blocks domains related to Roblox
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||blox.com^
+||rbx.com^
+||rbx.cn^
+||rbxcdn.com^
+||rbxcdn.net^
+||rbxinfra.com^
+||rbxinfra.net^
+||roblox.cn^
+||roblox.com^
+||roblox.qq.com^
+||robloxcdn.com^
+||robloxdev.cn^
+||rbxadder.com^

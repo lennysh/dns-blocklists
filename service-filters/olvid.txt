@@ -1,0 +1,12 @@
+! Title: Olvid Block List
+! Description: AdGuard filter rules for blocking Olvid
+! Source: AdGuard Hostlists Registry
+! Service ID: olvid
+! Generated: 2026-01-10 14:33:36 UTC
+!
+! This filter blocks domains related to Olvid
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||olvid.io^
+||olvid-attachment-chunks.s3.eu-west-3.amazonaws.com^

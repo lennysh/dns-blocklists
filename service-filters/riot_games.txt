@@ -1,0 +1,16 @@
+! Title: Riot Games Block List
+! Description: AdGuard filter rules for blocking Riot Games
+! Source: AdGuard Hostlists Registry
+! Service ID: riot_games
+! Generated: 2026-01-10 14:33:37 UTC
+!
+! This filter blocks domains related to Riot Games
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||dradis-prod.rdatasrv.net^
+||pvp.net^
+||rgpub.io^
+||riotcdn.com^
+||riotcdn.net^
+||riotgames.com^

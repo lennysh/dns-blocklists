@@ -1,0 +1,13 @@
+! Title: Microsoft Teams Block List
+! Description: AdGuard filter rules for blocking Microsoft Teams
+! Source: AdGuard Hostlists Registry
+! Service ID: microsoft_teams
+! Generated: 2026-01-10 14:33:36 UTC
+!
+! This filter blocks domains related to Microsoft Teams
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||teams.microsoft.com^
+||teams.live.com^
+||teams.cdn.office.net^

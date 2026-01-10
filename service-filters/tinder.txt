@@ -1,0 +1,13 @@
+! Title: Tinder Block List
+! Description: AdGuard filter rules for blocking Tinder
+! Source: AdGuard Hostlists Registry
+! Service ID: tinder
+! Generated: 2026-01-10 14:33:37 UTC
+!
+! This filter blocks domains related to Tinder
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||gotinder.com^
+||tinder.com^
+||tindersparks.com^

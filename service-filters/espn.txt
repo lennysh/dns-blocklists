@@ -1,0 +1,27 @@
+! Title: ESPN Block List
+! Description: AdGuard filter rules for blocking ESPN
+! Source: AdGuard Hostlists Registry
+! Service ID: espn
+! Generated: 2026-01-10 14:33:35 UTC
+!
+! This filter blocks domains related to ESPN
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||es.pn^
+||espncdn.com^
+||espn.com^
+||espncricinfo.com^
+||espn.net^
+||espn.com.ar^
+||espn.com.mx^
+||espn.com.co^
+||espn.com.pa^
+||espn.cl^
+||espn.com.ve^
+||espn.com.pe^
+||espn.com.ec^
+||espn.in
+||espn.com.au^
+||espn.co.uk^
+||espn.com.uy^

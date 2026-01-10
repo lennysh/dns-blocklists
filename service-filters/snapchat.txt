@@ -1,0 +1,16 @@
+! Title: Snapchat Block List
+! Description: AdGuard filter rules for blocking Snapchat
+! Source: AdGuard Hostlists Registry
+! Service ID: snapchat
+! Generated: 2026-01-10 14:33:37 UTC
+!
+! This filter blocks domains related to Snapchat
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||snapchat.com^
+||sc-cdn.net^
+||snap-dev.net^
+||snapkit.co
+||snapads.com^
+||impala-media-production.s3.amazonaws.com^

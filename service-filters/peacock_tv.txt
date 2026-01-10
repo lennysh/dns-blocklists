@@ -1,0 +1,12 @@
+! Title: Peacock TV Block List
+! Description: AdGuard filter rules for blocking Peacock TV
+! Source: AdGuard Hostlists Registry
+! Service ID: peacock_tv
+! Generated: 2026-01-10 14:33:36 UTC
+!
+! This filter blocks domains related to Peacock TV
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||peacocktv.com^
+||peacock.com^

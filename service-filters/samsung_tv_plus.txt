@@ -1,0 +1,14 @@
+! Title: Samsung TV Plus Block List
+! Description: AdGuard filter rules for blocking Samsung TV Plus
+! Source: AdGuard Hostlists Registry
+! Service ID: samsung_tv_plus
+! Generated: 2026-01-10 14:33:37 UTC
+!
+! This filter blocks domains related to Samsung TV Plus
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||samsungtvplus.com^
+||samsung.wurl.tv^
+||internetat.tv^
+||samsungcloud.tv^

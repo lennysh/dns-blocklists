@@ -1,0 +1,39 @@
+! Title: Amazon Streaming Block List
+! Description: AdGuard filter rules for blocking Amazon Streaming
+! Source: AdGuard Hostlists Registry
+! Service ID: amazon_streaming
+! Generated: 2026-01-10 14:33:34 UTC
+!
+! This filter blocks domains related to Amazon Streaming
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||amazonprimevideo.cn^
+||amazonprimevideo.com.cn^
+||amazonprimevideos.com^
+||primevideo.cc^
+||primevideo.com^
+||primevideo.info^
+||primevideo.org^
+||primevideo.tv^
+||amazonvideo.cc^
+||amazonvideo.com^
+||amazonvideodirect.com^
+||prime-video.com^
+||music.amazon.com^
+||music.amazon.co.uk^
+||music.amazon.in^
+||amazonmusic.com^
+||music.a2z.com^
+||aiv-delivery.net^
+||atv-ext.amazon.com^
+||atv-ext-eu.amazon.com^
+||atv-ext-fe.amazon.com^
+||atv-ps.amazon.com^
+||atv-ps-eu.amazon.com^
+||atv-ps-eu.amazon.co.uk^
+||atv-ps-fe.amazon.co.jp^
+||atv-ps-fe.amazon.com^
+||av-eu.amazon.com^
+||av-na.amazon.com^
+||video.a2z.com^

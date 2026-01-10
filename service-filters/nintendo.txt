@@ -1,0 +1,27 @@
+! Title: Nintendo Block List
+! Description: AdGuard filter rules for blocking Nintendo
+! Source: AdGuard Hostlists Registry
+! Service ID: nintendo
+! Generated: 2026-01-10 14:33:36 UTC
+!
+! This filter blocks domains related to Nintendo
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||nintendo.be^
+||nintendo.co.jp^
+||nintendo.com^
+||nintendo.com.au^
+||nintendo.co.uk^
+||nintendo.de^
+||nintendo.es^
+||nintendo.eu^
+||nintendo-europe.com^
+||nintendo.fr^
+||nintendo.it^
+||nintendo.jp^
+||nintendo.net^
+||nintendo.nl^
+||nintendo.pt^
+||nintendoswitch.cn^
+||nintendowifi.net^

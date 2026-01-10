@@ -1,0 +1,23 @@
+! Title: HBO Max Block List
+! Description: AdGuard filter rules for blocking HBO Max
+! Source: AdGuard Hostlists Registry
+! Service ID: hbomax
+! Generated: 2026-01-10 14:33:35 UTC
+!
+! This filter blocks domains related to HBO Max
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||hbo.com^
+||hbogo.co.th^
+||hbogo.com^
+||hbogo.eu^
+||hbogoasia.com^
+||hbogoasia.id^
+||hbogoasia.ph^
+||hbomax-images.warnermediacdn.com^
+||hbomax.com^
+||hbomaxcdn.com^
+||hbonow.com^
+||maxgo.com^
+||max.com^

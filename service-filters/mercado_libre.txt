@@ -1,0 +1,30 @@
+! Title: Mercado Libre Block List
+! Description: AdGuard filter rules for blocking Mercado Libre
+! Source: AdGuard Hostlists Registry
+! Service ID: mercado_libre
+! Generated: 2026-01-10 14:33:36 UTC
+!
+! This filter blocks domains related to Mercado Libre
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||mercadolibre.com^
+||mlstatic.com^
+||mercadolibre.com.ar^
+||mercadolibre.com.bo^
+||mercadolivre.com.br^
+||mercadolibre.cl^
+||mercadolibre.com.co^
+||mercadolibre.co.cr^
+||mercadolibre.com.do^
+||mercadolibre.com.ec^
+||mercadolibre.com.gt^
+||mercadolibre.com.hn^
+||mercadolibre.com.mx^
+||mercadolibre.com.ni^
+||mercadolibre.com.pa^
+||mercadolibre.com.py^
+||mercadolibre.com.pe^
+||mercadolibre.com.sv^
+||mercadolibre.com.uy^
+||mercadolibre.com.ve^

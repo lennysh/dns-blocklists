@@ -1,0 +1,18 @@
+! Title: iQIYI Block List
+! Description: AdGuard filter rules for blocking iQIYI
+! Source: AdGuard Hostlists Registry
+! Service ID: iqiyi
+! Generated: 2026-01-10 14:33:35 UTC
+!
+! This filter blocks domains related to iQIYI
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||iq.com^
+||iqiyi.com^
+||iqiyipic.com^
+||pps.tv^
+||ppsimg.com^
+||qiyi.com^
+||qiyipic.com^
+||qy.net^

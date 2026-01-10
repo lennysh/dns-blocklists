@@ -1,0 +1,14 @@
+! Title: Globoplay Block List
+! Description: AdGuard filter rules for blocking Globoplay
+! Source: AdGuard Hostlists Registry
+! Service ID: globoplay
+! Generated: 2026-01-10 14:33:35 UTC
+!
+! This filter blocks domains related to Globoplay
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||globoplay.globo.com^
+||globoplay.com^
+||globoplay.com.br^
+||cloud-jarvis.globo.com^

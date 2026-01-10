@@ -1,0 +1,28 @@
+! Title: Apple Streaming Block List
+! Description: AdGuard filter rules for blocking Apple Streaming
+! Source: AdGuard Hostlists Registry
+! Service ID: apple_streaming
+! Generated: 2026-01-10 14:33:34 UTC
+!
+! This filter blocks domains related to Apple Streaming
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||applemusic.apple^
+||itun.es^
+||itunes.es^
+||itunes.apple.com^
+||itunes.ca^
+||itunes.co^
+||itunes.com^
+||itunes.co.th^
+||itunes.g.aaplimg.com^
+||itunes.hk^
+||itunes.mx^
+||itunes.org^
+||itunes.us^
+||music.apple.com^
+||hls-svod-aoc-ve.itunes.g.aaplimg.com^
+||tv.apple.com^
+||tv.g.apple.com^
+||tv.v.aaplimg.com^

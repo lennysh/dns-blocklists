@@ -1,0 +1,13 @@
+! Title: Minecraft Block List
+! Description: AdGuard filter rules for blocking Minecraft
+! Source: AdGuard Hostlists Registry
+! Service ID: minecraft
+! Generated: 2026-01-10 14:33:36 UTC
+!
+! This filter blocks domains related to Minecraft
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||minecraft.net^
+||minecraftservices.com^
+||mojang.com^

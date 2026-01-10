@@ -1,0 +1,13 @@
+! Title: 4chan Block List
+! Description: AdGuard filter rules for blocking 4chan
+! Source: AdGuard Hostlists Registry
+! Service ID: 4chan
+! Generated: 2026-01-10 14:33:34 UTC
+!
+! This filter blocks domains related to 4chan
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||4chan.org^
+||4channel.org^
+||4cdn.org^

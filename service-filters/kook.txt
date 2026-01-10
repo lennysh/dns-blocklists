@@ -1,0 +1,12 @@
+! Title: KOOK Block List
+! Description: AdGuard filter rules for blocking KOOK
+! Source: AdGuard Hostlists Registry
+! Service ID: kook
+! Generated: 2026-01-10 14:33:36 UTC
+!
+! This filter blocks domains related to KOOK
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||kookapp.cn^
+||kaiheila.cn^

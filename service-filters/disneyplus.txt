@@ -1,0 +1,18 @@
+! Title: Disney+ Block List
+! Description: AdGuard filter rules for blocking Disney+
+! Source: AdGuard Hostlists Registry
+! Service ID: disneyplus
+! Generated: 2026-01-10 14:33:35 UTC
+!
+! This filter blocks domains related to Disney+
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||disney-plus.net^
+||disneyplus.com^
+||disney.playback.edge.bamgrid.com^
+||media.dssott.com^
+||disneynow.com^
+||hotstar.com^
+||star.playback.edge.bamgrid.com^
+||starplus.com^

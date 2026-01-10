@@ -1,0 +1,18 @@
+! Title: PlayStation Block List
+! Description: AdGuard filter rules for blocking PlayStation
+! Source: AdGuard Hostlists Registry
+! Service ID: playstation
+! Generated: 2026-01-10 14:33:36 UTC
+!
+! This filter blocks domains related to PlayStation
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||gaikai.com
+||playstation-cloud.com
+||playstation-cloud.net
+||playstation.com
+||playstation.net
+||scea.com
+||sonyentertainmentnetwork.com
+||station.sony.com

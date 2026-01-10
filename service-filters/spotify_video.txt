@@ -1,0 +1,16 @@
+! Title: Spotify Video Block List
+! Description: AdGuard filter rules for blocking Spotify Video
+! Source: AdGuard Hostlists Registry
+! Service ID: spotify_video
+! Generated: 2026-01-10 14:33:37 UTC
+!
+! This filter blocks domains related to Spotify Video
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||video-ak.cdn.spotify.com^
+||video-akpcw.spotifycdn.com.edgesuite.net^
+||eip-ntt.video-ak.cdn.spotify.com.akahost.net^
+||video-akpcw.spotifycdn.com^
+||video-fa.scdn.co^
+||video-akpcw-cdn-spotify-com.akamaized.net^

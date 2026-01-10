@@ -1,0 +1,14 @@
+! Title: GOG Block List
+! Description: AdGuard filter rules for blocking GOG
+! Source: AdGuard Hostlists Registry
+! Service ID: gog
+! Generated: 2026-01-10 14:33:35 UTC
+!
+! This filter blocks domains related to GOG
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||gog.com^
+||gog-cdn-lumen.secure2.footprint.net^
+||gog-statics.com^
+||gogalaxy.com^

@@ -1,0 +1,43 @@
+! Title: TikTok Block List
+! Description: AdGuard filter rules for blocking TikTok
+! Source: AdGuard Hostlists Registry
+! Service ID: tiktok
+! Generated: 2026-01-10 14:33:37 UTC
+!
+! This filter blocks domains related to TikTok
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||p16-tiktokcdn-com.akamaized.net^
+||amemv.com^
+||bdurl.com^
+||bytecdn.cn^
+||bytedance.map.fastly.net^
+||bytedapm.com^
+||bytegoofy.com^
+||byteimg.com^
+||byteoversea.com^
+||bytescm.com^
+||douyin.com^
+||douyincdn.com^
+||douyinpic.com^
+||douyinliving.com^
+||douyinstatic.com^
+||douyinvod.com^
+||huoshan.com^
+||huoshanstatic.com^
+||huoshanzhibo.com^
+||muscdn.com^
+||musical.ly^
+||pstatp.com^
+||snssdk.com^
+||tiktok.com^
+||tiktokcdn.com^
+||tiktokv.com^
+||tiktokcdn-us.com^
+||ttlivecdn.com.c.bytefcdn-oversea.com^
+||ttlivecdn.com^
+||p16-tiktok-*.ibyteimg.com^
+||v*.tiktokcdn-eu.com^
+||zijieapi.com^
+||tiktokrow-cdn.com^

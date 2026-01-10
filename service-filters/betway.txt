@@ -1,0 +1,26 @@
+! Title: Betway Block List
+! Description: AdGuard filter rules for blocking Betway
+! Source: AdGuard Hostlists Registry
+! Service ID: betway
+! Generated: 2026-01-10 14:33:34 UTC
+!
+! This filter blocks domains related to Betway
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||betway.com^
+||betway.com.gh^
+||betway.com.ng^
+||betway.co.za^
+||betway.de^
+||betwaygroup.com^
+||betway.it^
+||betway.se^
+||betway.be^
+||betway.es^
+||betway.bet.ar^
+||vietnambetway88.com^
+||betwaysatta.com^
+||betway.mx^
+||betway.pl^
+||betway.fr^

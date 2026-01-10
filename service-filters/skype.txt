@@ -1,0 +1,18 @@
+! Title: Skype Block List
+! Description: AdGuard filter rules for blocking Skype
+! Source: AdGuard Hostlists Registry
+! Service ID: skype
+! Generated: 2026-01-10 14:33:37 UTC
+!
+! This filter blocks domains related to Skype
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||skype^
+||skype.com^
+||skype.net^
+||skypeassets.com^
+||skypeassets.net^
+||edge-skype-com.s-0001.s-msedge.net^
+||skype-edf.akadns.net^
+||skypedata.akadns.net^

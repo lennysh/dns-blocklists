@@ -1,0 +1,33 @@
+! Title: X (formerly Twitter) Block List
+! Description: AdGuard filter rules for blocking X (formerly Twitter)
+! Source: AdGuard Hostlists Registry
+! Service ID: twitter
+! Generated: 2026-01-10 14:33:37 UTC
+!
+! This filter blocks domains related to X (formerly Twitter)
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||ads-twitter.com^
+||cms-twdigitalassets.com^
+||periscope.tv^
+||pscp.tv^
+||t.co^
+||tellapart.com^
+||tweetdeck.com^
+||twimg.com^
+||twitpic.com^
+||twitter.biz^
+||twitter.com^
+||twitter.jp^
+||twittercommunity.com^
+||twitterflightschool.com^
+||twitterinc.com^
+||twitteroauth.com^
+||twitterstat.us^
+||twtrdns.net^
+||twttr.com^
+||twttr.net^
+||twvid.com^
+||vine.co^
+||x.com^

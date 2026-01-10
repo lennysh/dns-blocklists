@@ -1,0 +1,15 @@
+! Title: Xiaohongshu Block List
+! Description: AdGuard filter rules for blocking Xiaohongshu
+! Source: AdGuard Hostlists Registry
+! Service ID: xiaohongshu
+! Generated: 2026-01-10 14:33:38 UTC
+!
+! This filter blocks domains related to Xiaohongshu
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||xiaohongshu.com^
+||xhscdn.com^
+||xhscdn.net^
+||xiaohongshu.net^
+||xiaohongshu.com.my^

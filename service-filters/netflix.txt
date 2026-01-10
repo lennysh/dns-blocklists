@@ -1,0 +1,35 @@
+! Title: Netflix Block List
+! Description: AdGuard filter rules for blocking Netflix
+! Source: AdGuard Hostlists Registry
+! Service ID: netflix
+! Generated: 2026-01-10 14:33:36 UTC
+!
+! This filter blocks domains related to Netflix
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+|netflix.com.edgesuite.net^
+||dualstack.apiproxy-*.amazonaws.com^
+||dualstack.ichnaea-web-*.amazonaws.com^
+||fast.com^
+||netflix.ca^
+||netflix.com^
+||netflix.net^
+||netflixdnstest1.com^
+||netflixdnstest10.com^
+||netflixdnstest2.com^
+||netflixdnstest3.com^
+||netflixdnstest4.com^
+||netflixdnstest5.com^
+||netflixdnstest6.com^
+||netflixdnstest7.com^
+||netflixdnstest8.com^
+||netflixdnstest9.com^
+||netflixinvestor.com^
+||netflixtechblog.com^
+||nflxext.com^
+||nflximg.com^
+||nflximg.net^
+||nflxsearch.net^
+||nflxso.net^
+||nflxvideo.net^

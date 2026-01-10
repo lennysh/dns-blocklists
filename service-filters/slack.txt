@@ -1,0 +1,15 @@
+! Title: Slack Block List
+! Description: AdGuard filter rules for blocking Slack
+! Source: AdGuard Hostlists Registry
+! Service ID: slack
+! Generated: 2026-01-10 14:33:37 UTC
+!
+! This filter blocks domains related to Slack
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||slack.com^
+||slackb.com^
+||slack-edge.com^
+||slack-imgs.com^
+||slack-files.com ^

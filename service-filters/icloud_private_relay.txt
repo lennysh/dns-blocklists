@@ -1,0 +1,13 @@
+! Title: iCloud Private Relay Block List
+! Description: AdGuard filter rules for blocking iCloud Private Relay
+! Source: AdGuard Hostlists Registry
+! Service ID: icloud_private_relay
+! Generated: 2026-01-10 14:33:35 UTC
+!
+! This filter blocks domains related to iCloud Private Relay
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||mask.icloud.com^$dnsrewrite=NXDOMAIN;;
+||mask-h2.icloud.com^$dnsrewrite=NXDOMAIN;;
+||mask-canary.icloud.com^$dnsrewrite=NXDOMAIN;;

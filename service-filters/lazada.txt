@@ -1,0 +1,19 @@
+! Title: Lazada Block List
+! Description: AdGuard filter rules for blocking Lazada
+! Source: AdGuard Hostlists Registry
+! Service ID: lazada
+! Generated: 2026-01-10 14:33:36 UTC
+!
+! This filter blocks domains related to Lazada
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||k1-lazadasg-oversea.gslb.ksyuncdn.com^
+||lazada.co.id^
+||lazada.co.th^
+||lazada.com^
+||lazada.com.my^
+||lazada.com.ph^
+||lazada.sg^
+||lazada.vn^
+||slatic.net^

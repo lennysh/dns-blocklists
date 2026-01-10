@@ -1,0 +1,18 @@
+! Title: Xbox Live Block List
+! Description: AdGuard filter rules for blocking Xbox Live
+! Source: AdGuard Hostlists Registry
+! Service ID: xboxlive
+! Generated: 2026-01-10 14:33:38 UTC
+!
+! This filter blocks domains related to Xbox Live
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||gamepass.com^
+||xbox-global.ifs.windows.com^
+||xbox-guide-public.rec.mp.microsoft.com^
+||xbox.ipv6.microsoft.com^
+||xboxab.com^
+||xboxab.net^
+||xboxlive.com^
+||xboxservices.com^

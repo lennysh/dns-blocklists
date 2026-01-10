@@ -1,0 +1,28 @@
+! Title: LINE Block List
+! Description: AdGuard filter rules for blocking LINE
+! Source: AdGuard Hostlists Registry
+! Service ID: line
+! Generated: 2026-01-10 14:33:36 UTC
+!
+! This filter blocks domains related to LINE
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||gcld-line.com^
+||lin.ee^
+||line-apps-beta.com^
+||line-apps-rc.com^
+||line-apps.com^
+||line-cdn.net^
+||line-scdn.net^
+||line.biz^
+||line.me^
+||line.naver.jp^
+||linecorp.com^
+||linefriends.com^
+||linefriends.com.tw^
+||linegame.jp^
+||linemobile.com^
+||linemyshop.com^
+||lineshoppingseller.com^
+||linetv.tw^

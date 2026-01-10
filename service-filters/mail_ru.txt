@@ -1,0 +1,13 @@
+! Title: Mail.ru Block List
+! Description: AdGuard filter rules for blocking Mail.ru
+! Source: AdGuard Hostlists Registry
+! Service ID: mail_ru
+! Generated: 2026-01-10 14:33:36 UTC
+!
+! This filter blocks domains related to Mail.ru
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||imgsmail.ru^
+||mail.ru^
+||mycdn.me^

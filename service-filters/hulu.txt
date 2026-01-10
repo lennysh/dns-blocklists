@@ -1,0 +1,11 @@
+! Title: Hulu Block List
+! Description: AdGuard filter rules for blocking Hulu
+! Source: AdGuard Hostlists Registry
+! Service ID: hulu
+! Generated: 2026-01-10 14:33:35 UTC
+!
+! This filter blocks domains related to Hulu
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||hulu.com^

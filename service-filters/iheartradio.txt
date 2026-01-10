@@ -1,0 +1,21 @@
+! Title: iHeartRadio Block List
+! Description: AdGuard filter rules for blocking iHeartRadio
+! Source: AdGuard Hostlists Registry
+! Service ID: iheartradio
+! Generated: 2026-01-10 14:33:35 UTC
+!
+! This filter blocks domains related to iHeartRadio
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||937theriver.com^
+||iheart.com^
+||iheartmedia.com^
+||iheart.mx^
+||iheartradio.ca^
+||iheartradio.com^
+||iheartradio.co.nz^
+||ihrdev.com^
+||ihrhls.com^
+||ihrint.com^
+||ihrstage.com^

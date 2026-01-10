@@ -1,0 +1,27 @@
+! Title: Telegram (Web) Block List
+! Description: AdGuard filter rules for blocking Telegram (Web)
+! Source: AdGuard Hostlists Registry
+! Service ID: telegram
+! Generated: 2026-01-10 14:33:37 UTC
+!
+! This filter blocks domains related to Telegram (Web)
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||comments.app^
+||contest.com^
+||graph.org^
+||quiz.directory^
+||t.me^
+||tdesktop.com^
+||telega.one^
+||telegra.ph^
+||telegram-cdn.org^
+||telegram.dog^
+||telegram.me^
+||telegram.org^
+||telegram.space^
+||telesco.pe^
+||tg.dev^
+||tx.me^
+||usercontent.dev^

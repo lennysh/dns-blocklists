@@ -1,0 +1,15 @@
+! Title: League of Legends Block List
+! Description: AdGuard filter rules for blocking League of Legends
+! Source: AdGuard Hostlists Registry
+! Service ID: leagueoflegends
+! Generated: 2026-01-10 14:33:36 UTC
+!
+! This filter blocks domains related to League of Legends
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||leagueoflegends.co.kr^
+||leagueoflegends.com^
+||lol.riotgames.com^
+||lolstatic.com^
+||lolusercontent.com^
