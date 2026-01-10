@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Betway
 ! Source: AdGuard Hostlists Registry
 ! Service ID: betway
-! Generated: 2026-01-10 14:33:34 UTC
+! Generated: 2026-01-10 14:43:17 UTC
 !
 ! This filter blocks domains related to Betway
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json

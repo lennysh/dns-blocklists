@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Douban
 ! Source: AdGuard Hostlists Registry
 ! Service ID: douban
-! Generated: 2026-01-10 14:33:35 UTC
+! Generated: 2026-01-10 14:43:17 UTC
 !
 ! This filter blocks domains related to Douban
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json

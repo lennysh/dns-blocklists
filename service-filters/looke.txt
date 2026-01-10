@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Looke
 ! Source: AdGuard Hostlists Registry
 ! Service ID: looke
-! Generated: 2026-01-10 14:33:36 UTC
+! Generated: 2026-01-10 14:43:18 UTC
 !
 ! This filter blocks domains related to Looke
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
