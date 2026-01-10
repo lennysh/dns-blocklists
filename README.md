@@ -1,6 +1,10 @@
 # lennysh-blocklists
 
+[![Update Blocklists](https://github.com/lennysh/lennysh-blocklists/actions/workflows/update-blocklists.yml/badge.svg)](https://github.com/lennysh/lennysh-blocklists/actions/workflows/update-blocklists.yml)
+
 Per-service DNS blocklists generated from the [AdGuard Hostlists Registry](https://github.com/AdguardTeam/HostlistsRegistry). Block individual services like TikTok, Discord, or gaming platforms at the DNS level.
+
+**🔄 Automatically updated daily via GitHub Actions**
 
 ## What This Is
 
@@ -102,7 +106,15 @@ Each filter file includes:
 
 ## Updates
 
-Filter files are regenerated periodically to include the latest domain rules from AdGuard. Star/watch this repo to stay updated.
+Filter files are **automatically updated daily at 6:00 AM UTC** via GitHub Actions. The workflow:
+
+1. Downloads the latest `services.json` from AdGuard
+2. Regenerates all filter files
+3. Commits changes only if there are updates
+
+You can also [manually trigger an update](../../actions/workflows/update-blocklists.yml) from the Actions tab.
+
+Star/watch this repo to stay notified of changes.
 
 ## Related Projects
 
