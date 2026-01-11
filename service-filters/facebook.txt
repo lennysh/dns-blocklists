@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Facebook
 ! Source: AdGuard Hostlists Registry
 ! Service ID: facebook
-! Generated: 2026-01-10 15:10:46 UTC
+! Generated: 2026-01-11 06:13:06 UTC
 !
 ! This filter blocks domains related to Facebook
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json

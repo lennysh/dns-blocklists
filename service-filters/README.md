@@ -4,7 +4,7 @@ Individual DNS blocklists for specific services. Copy the raw URL for any servic
 
 > **Note:** This file is auto-generated. Do not edit manually.
 >
-> **Last updated:** 2026-01-10 15:10:51 UTC
+> **Last updated:** 2026-01-11 06:13:08 UTC
 
 ## Block Everything
 
@@ -28,8 +28,8 @@ Click on a service name to view the filter, or copy the raw URL to add to your D
 | [Activision Blizzard](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/activision_blizzard.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/activision_blizzard.txt` |
 | [AliExpress](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/aliexpress.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/aliexpress.txt` |
 | [All Services](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/all.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/all.txt` |
-| [Amazon Streaming](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/amazon_streaming.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/amazon_streaming.txt` |
 | [Amazon](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/amazon.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/amazon.txt` |
+| [Amazon Streaming](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/amazon_streaming.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/amazon_streaming.txt` |
 | [Amino](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/amino.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/amino.txt` |
 | [Apple Streaming](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/apple_streaming.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/apple_streaming.txt` |
 | [Battle.net](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/battle_net.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/battle_net.txt` |
@@ -181,8 +181,8 @@ https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/50
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/9gag.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/activision_blizzard.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/aliexpress.txt
-https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/amazon_streaming.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/amazon.txt
+https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/amazon_streaming.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/amino.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/apple_streaming.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/battle_net.txt

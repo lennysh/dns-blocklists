@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Privacy
 ! Source: AdGuard Hostlists Registry
 ! Service ID: privacy
-! Generated: 2026-01-10 15:10:48 UTC
+! Generated: 2026-01-11 06:13:07 UTC
 !
 ! This filter blocks domains related to Privacy
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
