@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Apple Streaming
 ! Source: AdGuard Hostlists Registry
 ! Service ID: apple_streaming
-! Generated: 2026-01-11 06:13:05 UTC
+! Generated: 2026-01-12 06:16:04 UTC
 !
 ! This filter blocks domains related to Apple Streaming
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
