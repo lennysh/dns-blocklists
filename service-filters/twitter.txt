@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking X (formerly Twitter)
 ! Source: AdGuard Hostlists Registry
 ! Service ID: twitter
-! Generated: 2026-01-12 06:16:06 UTC
+! Generated: 2026-01-13 06:14:19 UTC
 !
 ! This filter blocks domains related to X (formerly Twitter)
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json

@@ -1,11 +1,11 @@
-! Title: Hulu Block List
-! Description: AdGuard filter rules for blocking Hulu
+! Title: MAX Block List
+! Description: AdGuard filter rules for blocking MAX
 ! Source: AdGuard Hostlists Registry
-! Service ID: hulu
+! Service ID: max
 ! Generated: 2026-01-13 06:14:18 UTC
 !
-! This filter blocks domains related to Hulu
+! This filter blocks domains related to MAX
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
 !
 
-||hulu.com^
+||max.ru^

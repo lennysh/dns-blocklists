@@ -1,7 +1,7 @@
 ! Title: All Services Block List
 ! Description: Combined AdGuard filter rules for blocking ALL services
 ! Source: AdGuard Hostlists Registry
-! Generated: 2026-01-12 06:16:06 UTC
+! Generated: 2026-01-13 06:14:20 UTC
 !
 ! This filter blocks domains for ALL available services.
 ! For individual service blocklists, see the README.md
@@ -1714,6 +1714,9 @@
 ||todon.eu^
 ||mastodon.zaclys.com^
 ||cupoftea.social^
+
+! === MAX ===
+||max.ru^
 
 ! === Mercado Libre ===
 ||mercadolibre.com^

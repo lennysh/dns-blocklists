@@ -4,7 +4,7 @@ Individual DNS blocklists for specific services. Copy the raw URL for any servic
 
 > **Note:** This file is auto-generated. Do not edit manually.
 >
-> **Last updated:** 2026-01-12 06:16:07 UTC
+> **Last updated:** 2026-01-13 06:14:20 UTC
 
 ## Block Everything
 
@@ -12,7 +12,7 @@ Want to block ALL services at once? Use the combined blocklist:
 
 | Description | Raw URL |
 |-------------|---------|
-| **All Services Combined** (2264 rules) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/all.txt` |
+| **All Services Combined** (2265 rules) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/all.txt` |
 
 ---
 
@@ -86,6 +86,7 @@ Click on a service name to view the filter, or copy the raw URL to add to your D
 | [Looke](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/looke.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/looke.txt` |
 | [Mail.ru](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/mail_ru.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/mail_ru.txt` |
 | [Mastodon](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/mastodon.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/mastodon.txt` |
+| [MAX](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/max.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/max.txt` |
 | [Mercado Libre](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/mercado_libre.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/mercado_libre.txt` |
 | [Microsoft Teams](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/microsoft_teams.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/microsoft_teams.txt` |
 | [Minecraft](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/minecraft.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/minecraft.txt` |
@@ -239,6 +240,7 @@ https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/li
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/looke.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/mail_ru.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/mastodon.txt
+https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/max.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/mercado_libre.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/microsoft_teams.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/minecraft.txt
@@ -307,4 +309,4 @@ https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/zh
 
 ---
 
-**Total blocklists available:** 128 (including all.txt)
+**Total blocklists available:** 129 (including all.txt)
