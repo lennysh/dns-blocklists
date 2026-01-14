@@ -1,0 +1,15 @@
+! Title: Proton Block List
+! Description: AdGuard filter rules for blocking Proton
+! Source: AdGuard Hostlists Registry
+! Service ID: proton
+! Generated: 2026-01-14 06:14:28 UTC
+!
+! This filter blocks domains related to Proton
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||proton.me^
+||protonmail.com^
+||protonmail.ch^
+||pm.me^
+||protonvpn.com^

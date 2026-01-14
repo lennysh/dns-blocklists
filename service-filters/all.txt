@@ -1,7 +1,7 @@
 ! Title: All Services Block List
 ! Description: Combined AdGuard filter rules for blocking ALL services
 ! Source: AdGuard Hostlists Registry
-! Generated: 2026-01-13 06:14:20 UTC
+! Generated: 2026-01-14 06:14:29 UTC
 !
 ! This filter blocks domains for ALL available services.
 ! For individual service blocklists, see the README.md
@@ -1938,6 +1938,13 @@
 ! === Privacy ===
 ||privacy.com.br^
 
+! === Proton ===
+||proton.me^
+||protonmail.com^
+||protonmail.ch^
+||pm.me^
+||protonvpn.com^
+
 ! === QQ ===
 ||qq.com^$denyallow=wx.qq.com|weixin.qq.com
 ||qq-video.cdn-go.cn^
@@ -2291,6 +2298,9 @@
 ||worldofwarships.eu^
 ||wotblitz.com^
 ||wgcdn.co^
+
+! === Warner Bros. Games ===
+||warnerbrosgames.com^
 
 ! === WeChat ===
 ||wechat.com^

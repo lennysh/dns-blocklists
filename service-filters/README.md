@@ -4,7 +4,7 @@ Individual DNS blocklists for specific services. Copy the raw URL for any servic
 
 > **Note:** This file is auto-generated. Do not edit manually.
 >
-> **Last updated:** 2026-01-13 06:14:20 UTC
+> **Last updated:** 2026-01-14 06:14:29 UTC
 
 ## Block Everything
 
@@ -12,7 +12,7 @@ Want to block ALL services at once? Use the combined blocklist:
 
 | Description | Raw URL |
 |-------------|---------|
-| **All Services Combined** (2265 rules) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/all.txt` |
+| **All Services Combined** (2271 rules) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/all.txt` |
 
 ---
 
@@ -109,6 +109,7 @@ Click on a service name to view the filter, or copy the raw URL to add to your D
 | [Plex](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/plex.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/plex.txt` |
 | [Pluto TV](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/pluto_tv.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/pluto_tv.txt` |
 | [Privacy](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/privacy.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/privacy.txt` |
+| [Proton](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/proton.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/proton.txt` |
 | [QQ](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/qq.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/qq.txt` |
 | [Rakuten Viki](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/rakuten_viki.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/rakuten_viki.txt` |
 | [Reddit](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/reddit.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/reddit.txt` |
@@ -142,6 +143,7 @@ Click on a service name to view the filter, or copy the raw URL to add to your D
 | [VK.com](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/vk.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/vk.txt` |
 | [Voot](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/voot.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/voot.txt` |
 | [Wargaming](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/wargaming.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/wargaming.txt` |
+| [Warner Bros. Games](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/warnerbrosgames.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/warnerbrosgames.txt` |
 | [WeChat](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/wechat.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/wechat.txt` |
 | [Weibo](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/weibo.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/weibo.txt` |
 | [WhatsApp](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/whatsapp.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/whatsapp.txt` |
@@ -263,6 +265,7 @@ https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/pl
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/plex.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/pluto_tv.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/privacy.txt
+https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/proton.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/qq.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/rakuten_viki.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/reddit.txt
@@ -296,6 +299,7 @@ https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/vi
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/vk.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/voot.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/wargaming.txt
+https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/warnerbrosgames.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/wechat.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/weibo.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/whatsapp.txt
@@ -309,4 +313,4 @@ https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/zh
 
 ---
 
-**Total blocklists available:** 129 (including all.txt)
+**Total blocklists available:** 131 (including all.txt)

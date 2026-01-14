@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking YouTube
 ! Source: AdGuard Hostlists Registry
 ! Service ID: youtube
-! Generated: 2026-01-13 06:14:20 UTC
+! Generated: 2026-01-14 06:14:29 UTC
 !
 ! This filter blocks domains related to YouTube
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
