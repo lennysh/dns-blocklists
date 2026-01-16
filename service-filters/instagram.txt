@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Instagram
 ! Source: AdGuard Hostlists Registry
 ! Service ID: instagram
-! Generated: 2026-01-15 06:14:12 UTC
+! Generated: 2026-01-16 06:14:34 UTC
 !
 ! This filter blocks domains related to Instagram
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json

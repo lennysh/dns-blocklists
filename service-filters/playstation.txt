@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking PlayStation
 ! Source: AdGuard Hostlists Registry
 ! Service ID: playstation
-! Generated: 2026-01-15 06:14:12 UTC
+! Generated: 2026-01-16 06:14:35 UTC
 !
 ! This filter blocks domains related to PlayStation
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
