@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking SoundCloud
 ! Source: AdGuard Hostlists Registry
 ! Service ID: soundcloud
-! Generated: 2026-01-20 06:15:51 UTC
+! Generated: 2026-01-21 06:15:48 UTC
 !
 ! This filter blocks domains related to SoundCloud
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
