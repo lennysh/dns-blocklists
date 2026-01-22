@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Imgur
 ! Source: AdGuard Hostlists Registry
 ! Service ID: imgur
-! Generated: 2026-01-21 06:15:47 UTC
+! Generated: 2026-01-22 06:14:55 UTC
 !
 ! This filter blocks domains related to Imgur
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
