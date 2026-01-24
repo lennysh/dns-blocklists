@@ -1,7 +1,7 @@
 ! Title: All Services Block List
 ! Description: Combined AdGuard filter rules for blocking ALL services
 ! Source: AdGuard Hostlists Registry
-! Generated: 2026-01-23 06:14:18 UTC
+! Generated: 2026-01-24 06:12:40 UTC
 !
 ! This filter blocks domains for ALL available services.
 ! For individual service blocklists, see the README.md
@@ -1399,6 +1399,10 @@
 ||flickrpro.com^
 ||staticflickr.com^
 
+! === Gemini ===
+||gemini.com^
+||gemini.google.com^
+
 ! === Globoplay ===
 ||globoplay.globo.com^
 ||globoplay.com^
@@ -1410,6 +1414,10 @@
 ||gog-cdn-lumen.secure2.footprint.net^
 ||gog-statics.com^
 ||gogalaxy.com^
+
+! === Grok ===
+||grok.com^
+||x.ai^
 
 ! === HBO Max ===
 ||hbo.com^
@@ -1614,6 +1622,10 @@
 ||mail.ru^
 ||mycdn.me^
 
+! === Manus ===
+||manus.im^
+||manuscdn.com^
+
 ! === Mastodon ===
 ||mastodon.social^
 ||mastodon.online^
@@ -1739,6 +1751,9 @@
 ||mercadolibre.com.sv^
 ||mercadolibre.com.uy^
 ||mercadolibre.com.ve^
+
+! === Meta AI ===
+||meta.ai^
 
 ! === Microsoft Teams ===
 ||teams.microsoft.com^

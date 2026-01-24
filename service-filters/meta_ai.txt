@@ -1,11 +1,11 @@
-! Title: Imgur Block List
-! Description: AdGuard filter rules for blocking Imgur
+! Title: Meta AI Block List
+! Description: AdGuard filter rules for blocking Meta AI
 ! Source: AdGuard Hostlists Registry
-! Service ID: imgur
+! Service ID: meta_ai
 ! Generated: 2026-01-24 06:12:39 UTC
 !
-! This filter blocks domains related to Imgur
+! This filter blocks domains related to Meta AI
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
 !
 
-||imgur.com^
+||meta.ai^

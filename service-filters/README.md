@@ -4,7 +4,7 @@ Individual DNS blocklists for specific services. Copy the raw URL for any servic
 
 > **Note:** This file is auto-generated. Do not edit manually.
 >
-> **Last updated:** 2026-01-23 06:14:19 UTC
+> **Last updated:** 2026-01-24 06:12:41 UTC
 
 ## Block Everything
 
@@ -12,7 +12,7 @@ Want to block ALL services at once? Use the combined blocklist:
 
 | Description | Raw URL |
 |-------------|---------|
-| **All Services Combined** (2271 rules) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/all.txt` |
+| **All Services Combined** (2278 rules) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/all.txt` |
 
 ---
 
@@ -66,8 +66,10 @@ Click on a service name to view the filter, or copy the raw URL to add to your D
 | [Facebook](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/facebook.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/facebook.txt` |
 | [FIFA](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/fifa.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/fifa.txt` |
 | [Flickr](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/flickr.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/flickr.txt` |
+| [Gemini](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/gemini.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/gemini.txt` |
 | [Globoplay](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/globoplay.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/globoplay.txt` |
 | [GOG](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/gog.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/gog.txt` |
+| [Grok](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/grok.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/grok.txt` |
 | [HBO Max](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/hbomax.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/hbomax.txt` |
 | [Hulu](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/hulu.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/hulu.txt` |
 | [iCloud Private Relay](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/icloud_private_relay.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/icloud_private_relay.txt` |
@@ -85,9 +87,11 @@ Click on a service name to view the filter, or copy the raw URL to add to your D
 | [Lionsgate+](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/lionsgateplus.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/lionsgateplus.txt` |
 | [Looke](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/looke.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/looke.txt` |
 | [Mail.ru](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/mail_ru.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/mail_ru.txt` |
+| [Manus](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/manus.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/manus.txt` |
 | [Mastodon](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/mastodon.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/mastodon.txt` |
 | [MAX](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/max.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/max.txt` |
 | [Mercado Libre](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/mercado_libre.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/mercado_libre.txt` |
+| [Meta AI](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/meta_ai.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/meta_ai.txt` |
 | [Microsoft Teams](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/microsoft_teams.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/microsoft_teams.txt` |
 | [Minecraft](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/minecraft.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/minecraft.txt` |
 | [Nebula](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/nebula.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/nebula.txt` |
@@ -222,8 +226,10 @@ https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/es
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/facebook.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/fifa.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/flickr.txt
+https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/gemini.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/globoplay.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/gog.txt
+https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/grok.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/hbomax.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/hulu.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/icloud_private_relay.txt
@@ -241,9 +247,11 @@ https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/li
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/lionsgateplus.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/looke.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/mail_ru.txt
+https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/manus.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/mastodon.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/max.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/mercado_libre.txt
+https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/meta_ai.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/microsoft_teams.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/minecraft.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/nebula.txt
@@ -313,4 +321,4 @@ https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/zh
 
 ---
 
-**Total blocklists available:** 131 (including all.txt)
+**Total blocklists available:** 135 (including all.txt)
