@@ -1,7 +1,7 @@
 ! Title: All Services Block List
 ! Description: Combined AdGuard filter rules for blocking ALL services
 ! Source: AdGuard Hostlists Registry
-! Generated: 2026-01-26 06:16:41 UTC
+! Generated: 2026-01-27 06:14:48 UTC
 !
 ! This filter blocks domains for ALL available services.
 ! For individual service blocklists, see the README.md
@@ -492,6 +492,13 @@
 ||coolapk.com^
 ||coolapkmarket.com^
 ||coolapkmarket.net^
+
+! === Copilot ===
+||copilot.com^
+||copilot.ai^
+||copilot.microsoft.com^
+||copilot.cloud.microsoft^
+||copilotstudio.microsoft.com^
 
 ! === Crunchyroll ===
 ||gccrunchyroll.com^

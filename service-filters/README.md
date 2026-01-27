@@ -4,7 +4,7 @@ Individual DNS blocklists for specific services. Copy the raw URL for any servic
 
 > **Note:** This file is auto-generated. Do not edit manually.
 >
-> **Last updated:** 2026-01-26 06:16:42 UTC
+> **Last updated:** 2026-01-27 06:14:48 UTC
 
 ## Block Everything
 
@@ -12,7 +12,7 @@ Want to block ALL services at once? Use the combined blocklist:
 
 | Description | Raw URL |
 |-------------|---------|
-| **All Services Combined** (2278 rules) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/all.txt` |
+| **All Services Combined** (2283 rules) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/all.txt` |
 
 ---
 
@@ -49,6 +49,7 @@ Click on a service name to view the filter, or copy the raw URL to add to your D
 | [Cloudflare](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/cloudflare.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/cloudflare.txt` |
 | [Clubhouse](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/clubhouse.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/clubhouse.txt` |
 | [CoolApk](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/coolapk.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/coolapk.txt` |
+| [Copilot](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/copilot.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/copilot.txt` |
 | [Crunchyroll](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/crunchyroll.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/crunchyroll.txt` |
 | [Dailymotion](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/dailymotion.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/dailymotion.txt` |
 | [DeepSeek](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/deepseek.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/deepseek.txt` |
@@ -209,6 +210,7 @@ https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/cl
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/cloudflare.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/clubhouse.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/coolapk.txt
+https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/copilot.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/crunchyroll.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/dailymotion.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/deepseek.txt
@@ -321,4 +323,4 @@ https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/zh
 
 ---
 
-**Total blocklists available:** 135 (including all.txt)
+**Total blocklists available:** 136 (including all.txt)

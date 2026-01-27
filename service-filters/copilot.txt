@@ -1,0 +1,15 @@
+! Title: Copilot Block List
+! Description: AdGuard filter rules for blocking Copilot
+! Source: AdGuard Hostlists Registry
+! Service ID: copilot
+! Generated: 2026-01-27 06:14:45 UTC
+!
+! This filter blocks domains related to Copilot
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||copilot.com^
+||copilot.ai^
+||copilot.microsoft.com^
+||copilot.cloud.microsoft^
+||copilotstudio.microsoft.com^
