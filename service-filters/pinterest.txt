@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Pinterest
 ! Source: AdGuard Hostlists Registry
 ! Service ID: pinterest
-! Generated: 2026-01-27 06:14:47 UTC
+! Generated: 2026-01-28 06:15:40 UTC
 !
 ! This filter blocks domains related to Pinterest
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
