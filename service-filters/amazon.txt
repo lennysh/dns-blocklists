@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Amazon
 ! Source: AdGuard Hostlists Registry
 ! Service ID: amazon
-! Generated: 2026-01-29 06:24:07 UTC
+! Generated: 2026-01-30 06:24:24 UTC
 !
 ! This filter blocks domains related to Amazon
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json

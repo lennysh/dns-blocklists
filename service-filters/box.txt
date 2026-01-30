@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Box
 ! Source: AdGuard Hostlists Registry
 ! Service ID: box
-! Generated: 2026-01-29 06:24:07 UTC
+! Generated: 2026-01-30 06:24:25 UTC
 !
 ! This filter blocks domains related to Box
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
