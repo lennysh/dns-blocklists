@@ -1,0 +1,13 @@
+! Title: IO Interactive Block List
+! Description: AdGuard filter rules for blocking IO Interactive
+! Source: AdGuard Hostlists Registry
+! Service ID: io_interactive
+! Generated: 2026-01-31 06:18:05 UTC
+!
+! This filter blocks domains related to IO Interactive
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||ioi.dk^
+||hitman.com^
+||hitman.io^

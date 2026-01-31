@@ -1,7 +1,7 @@
 ! Title: All Services Block List
 ! Description: Combined AdGuard filter rules for blocking ALL services
 ! Source: AdGuard Hostlists Registry
-! Generated: 2026-01-30 06:24:27 UTC
+! Generated: 2026-01-31 06:18:07 UTC
 !
 ! This filter blocks domains for ALL available services.
 ! For individual service blocklists, see the README.md
@@ -1538,6 +1538,11 @@
 ||onlineinstagram.com^
 ||web-instagram.net^
 ||wwwinstagram.com^
+
+! === IO Interactive ===
+||ioi.dk^
+||hitman.com^
+||hitman.io^
 
 ! === iQIYI ===
 ||iq.com^

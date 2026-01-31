@@ -4,7 +4,7 @@ Individual DNS blocklists for specific services. Copy the raw URL for any servic
 
 > **Note:** This file is auto-generated. Do not edit manually.
 >
-> **Last updated:** 2026-01-30 06:24:27 UTC
+> **Last updated:** 2026-01-31 06:18:07 UTC
 
 ## Block Everything
 
@@ -12,7 +12,7 @@ Want to block ALL services at once? Use the combined blocklist:
 
 | Description | Raw URL |
 |-------------|---------|
-| **All Services Combined** (2283 rules) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/all.txt` |
+| **All Services Combined** (2286 rules) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/all.txt` |
 
 ---
 
@@ -77,6 +77,7 @@ Click on a service name to view the filter, or copy the raw URL to add to your D
 | [iHeartRadio](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/iheartradio.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/iheartradio.txt` |
 | [Imgur](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/imgur.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/imgur.txt` |
 | [Instagram](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/instagram.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/instagram.txt` |
+| [IO Interactive](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/io_interactive.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/io_interactive.txt` |
 | [iQIYI](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/iqiyi.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/iqiyi.txt` |
 | [KakaoTalk](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/kakaotalk.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/kakaotalk.txt` |
 | [Kik](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/kik.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/kik.txt` |
@@ -238,6 +239,7 @@ https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/ic
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/iheartradio.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/imgur.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/instagram.txt
+https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/io_interactive.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/iqiyi.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/kakaotalk.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/kik.txt
@@ -323,4 +325,4 @@ https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/zh
 
 ---
 
-**Total blocklists available:** 136 (including all.txt)
+**Total blocklists available:** 137 (including all.txt)

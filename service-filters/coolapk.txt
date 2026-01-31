@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking CoolApk
 ! Source: AdGuard Hostlists Registry
 ! Service ID: coolapk
-! Generated: 2026-01-30 06:24:25 UTC
+! Generated: 2026-01-31 06:18:04 UTC
 !
 ! This filter blocks domains related to CoolApk
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
