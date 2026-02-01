@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Electronic Arts
 ! Source: AdGuard Hostlists Registry
 ! Service ID: electronic_arts
-! Generated: 2026-01-31 06:18:05 UTC
+! Generated: 2026-02-01 06:25:10 UTC
 !
 ! This filter blocks domains related to Electronic Arts
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
