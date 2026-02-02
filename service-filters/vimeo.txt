@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Vimeo
 ! Source: AdGuard Hostlists Registry
 ! Service ID: vimeo
-! Generated: 2026-02-01 06:25:12 UTC
+! Generated: 2026-02-02 06:33:50 UTC
 !
 ! This filter blocks domains related to Vimeo
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
