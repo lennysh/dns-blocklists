@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Nintendo
 ! Source: AdGuard Hostlists Registry
 ! Service ID: nintendo
-! Generated: 2026-02-02 06:33:49 UTC
+! Generated: 2026-02-03 06:26:12 UTC
 !
 ! This filter blocks domains related to Nintendo
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
