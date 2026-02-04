@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Globoplay
 ! Source: AdGuard Hostlists Registry
 ! Service ID: globoplay
-! Generated: 2026-02-03 06:26:12 UTC
+! Generated: 2026-02-04 06:25:55 UTC
 !
 ! This filter blocks domains related to Globoplay
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
