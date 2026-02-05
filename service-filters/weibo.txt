@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Weibo
 ! Source: AdGuard Hostlists Registry
 ! Service ID: weibo
-! Generated: 2026-02-04 06:25:57 UTC
+! Generated: 2026-02-05 06:29:33 UTC
 !
 ! This filter blocks domains related to Weibo
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json

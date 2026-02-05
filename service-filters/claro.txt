@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Claro
 ! Source: AdGuard Hostlists Registry
 ! Service ID: claro
-! Generated: 2026-02-04 06:25:55 UTC
+! Generated: 2026-02-05 06:29:31 UTC
 !
 ! This filter blocks domains related to Claro
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
