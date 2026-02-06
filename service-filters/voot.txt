@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Voot
 ! Source: AdGuard Hostlists Registry
 ! Service ID: voot
-! Generated: 2026-02-05 06:29:33 UTC
+! Generated: 2026-02-06 06:27:11 UTC
 !
 ! This filter blocks domains related to Voot
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
