@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Rockstar Games
 ! Source: AdGuard Hostlists Registry
 ! Service ID: rockstar_games
-! Generated: 2026-02-06 06:27:10 UTC
+! Generated: 2026-02-07 06:20:48 UTC
 !
 ! This filter blocks domains related to Rockstar Games
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
