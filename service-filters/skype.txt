@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Skype
 ! Source: AdGuard Hostlists Registry
 ! Service ID: skype
-! Generated: 2026-02-07 06:20:48 UTC
+! Generated: 2026-02-08 06:25:56 UTC
 !
 ! This filter blocks domains related to Skype
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
