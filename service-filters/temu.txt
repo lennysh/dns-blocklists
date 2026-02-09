@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Temu
 ! Source: AdGuard Hostlists Registry
 ! Service ID: temu
-! Generated: 2026-02-08 06:25:56 UTC
+! Generated: 2026-02-09 06:35:40 UTC
 !
 ! This filter blocks domains related to Temu
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
