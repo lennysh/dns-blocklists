@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Betano
 ! Source: AdGuard Hostlists Registry
 ! Service ID: betano
-! Generated: 2026-02-14 06:22:21 UTC
+! Generated: 2026-02-15 06:25:55 UTC
 !
 ! This filter blocks domains related to Betano
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
