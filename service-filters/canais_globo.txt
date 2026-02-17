@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Canais Globo
 ! Source: AdGuard Hostlists Registry
 ! Service ID: canais_globo
-! Generated: 2026-02-16 06:34:30 UTC
+! Generated: 2026-02-17 06:29:59 UTC
 !
 ! This filter blocks domains related to Canais Globo
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
