@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Google Play Store
 ! Source: AdGuard Hostlists Registry
 ! Service ID: playstore
-! Generated: 2026-02-17 06:30:00 UTC
+! Generated: 2026-02-18 06:32:43 UTC
 !
 ! This filter blocks domains related to Google Play Store
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
