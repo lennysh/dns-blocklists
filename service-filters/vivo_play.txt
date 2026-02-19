@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Vivo Play
 ! Source: AdGuard Hostlists Registry
 ! Service ID: vivo_play
-! Generated: 2026-02-18 06:32:43 UTC
+! Generated: 2026-02-19 06:31:41 UTC
 !
 ! This filter blocks domains related to Vivo Play
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json

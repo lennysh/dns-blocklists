@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking IO Interactive
 ! Source: AdGuard Hostlists Registry
 ! Service ID: io_interactive
-! Generated: 2026-02-18 06:32:42 UTC
+! Generated: 2026-02-19 06:31:40 UTC
 !
 ! This filter blocks domains related to IO Interactive
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
