@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking LINE
 ! Source: AdGuard Hostlists Registry
 ! Service ID: line
-! Generated: 2026-02-20 06:28:21 UTC
+! Generated: 2026-02-21 06:21:19 UTC
 !
 ! This filter blocks domains related to LINE
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
