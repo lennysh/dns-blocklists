@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Warner Bros. Games
 ! Source: AdGuard Hostlists Registry
 ! Service ID: warnerbrosgames
-! Generated: 2026-02-22 06:23:55 UTC
+! Generated: 2026-02-23 06:35:14 UTC
 !
 ! This filter blocks domains related to Warner Bros. Games
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
