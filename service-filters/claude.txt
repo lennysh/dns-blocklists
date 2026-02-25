@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Claude
 ! Source: AdGuard Hostlists Registry
 ! Service ID: claude
-! Generated: 2026-02-24 06:31:07 UTC
+! Generated: 2026-02-25 06:33:24 UTC
 !
 ! This filter blocks domains related to Claude
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
