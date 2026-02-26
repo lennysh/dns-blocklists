@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Netflix
 ! Source: AdGuard Hostlists Registry
 ! Service ID: netflix
-! Generated: 2026-02-25 06:33:25 UTC
+! Generated: 2026-02-26 06:30:19 UTC
 !
 ! This filter blocks domains related to Netflix
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
