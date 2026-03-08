@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Mastodon
 ! Source: AdGuard Hostlists Registry
 ! Service ID: mastodon
-! Generated: 2026-03-07 06:18:27 UTC
+! Generated: 2026-03-08 06:21:41 UTC
 !
 ! This filter blocks domains related to Mastodon
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json

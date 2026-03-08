@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking GOG
 ! Source: AdGuard Hostlists Registry
 ! Service ID: gog
-! Generated: 2026-03-07 06:18:26 UTC
+! Generated: 2026-03-08 06:21:40 UTC
 !
 ! This filter blocks domains related to GOG
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
