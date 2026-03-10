@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Dailymotion
 ! Source: AdGuard Hostlists Registry
 ! Service ID: dailymotion
-! Generated: 2026-03-09 06:32:20 UTC
+! Generated: 2026-03-10 06:24:49 UTC
 !
 ! This filter blocks domains related to Dailymotion
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json

@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking MAX
 ! Source: AdGuard Hostlists Registry
 ! Service ID: max
-! Generated: 2026-03-09 06:32:20 UTC
+! Generated: 2026-03-10 06:24:50 UTC
 !
 ! This filter blocks domains related to MAX
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
