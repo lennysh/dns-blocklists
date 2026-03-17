@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Cloudflare
 ! Source: AdGuard Hostlists Registry
 ! Service ID: cloudflare
-! Generated: 2026-03-16 06:43:31 UTC
+! Generated: 2026-03-17 06:32:49 UTC
 !
 ! This filter blocks domains related to Cloudflare
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
