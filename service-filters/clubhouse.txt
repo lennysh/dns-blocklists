@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Clubhouse
 ! Source: AdGuard Hostlists Registry
 ! Service ID: clubhouse
-! Generated: 2026-03-17 06:32:49 UTC
+! Generated: 2026-03-18 06:33:47 UTC
 !
 ! This filter blocks domains related to Clubhouse
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
