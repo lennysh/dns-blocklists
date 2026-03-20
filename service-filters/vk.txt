@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking VK.com
 ! Source: AdGuard Hostlists Registry
 ! Service ID: vk
-! Generated: 2026-03-19 06:30:57 UTC
+! Generated: 2026-03-20 06:28:29 UTC
 !
 ! This filter blocks domains related to VK.com
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
