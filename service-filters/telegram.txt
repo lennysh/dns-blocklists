@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Telegram (Web)
 ! Source: AdGuard Hostlists Registry
 ! Service ID: telegram
-! Generated: 2026-03-21 06:21:38 UTC
+! Generated: 2026-03-22 06:26:10 UTC
 !
 ! This filter blocks domains related to Telegram (Web)
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
