@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Amazon Streaming
 ! Source: AdGuard Hostlists Registry
 ! Service ID: amazon_streaming
-! Generated: 2026-03-23 06:38:10 UTC
+! Generated: 2026-03-24 06:33:33 UTC
 !
 ! This filter blocks domains related to Amazon Streaming
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
