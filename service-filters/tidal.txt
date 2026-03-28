@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Tidal
 ! Source: AdGuard Hostlists Registry
 ! Service ID: tidal
-! Generated: 2026-03-27 06:36:59 UTC
+! Generated: 2026-03-28 06:29:56 UTC
 !
 ! This filter blocks domains related to Tidal
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json

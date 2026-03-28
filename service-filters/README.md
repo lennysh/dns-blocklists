@@ -4,7 +4,7 @@ Individual DNS blocklists for specific services. Copy the raw URL for any servic
 
 > **Note:** This file is auto-generated. Do not edit manually.
 >
-> **Last updated:** 2026-03-27 06:37:00 UTC
+> **Last updated:** 2026-03-28 06:29:57 UTC
 
 ## Block Everything
 
