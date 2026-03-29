@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking YY
 ! Source: AdGuard Hostlists Registry
 ! Service ID: yy
-! Generated: 2026-03-28 06:29:56 UTC
+! Generated: 2026-03-29 06:34:32 UTC
 !
 ! This filter blocks domains related to YY
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
