@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Ubisoft
 ! Source: AdGuard Hostlists Registry
 ! Service ID: ubisoft
-! Generated: 2026-04-07 06:41:54 UTC
+! Generated: 2026-04-08 06:43:39 UTC
 !
 ! This filter blocks domains related to Ubisoft
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
