@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Perplexity
 ! Source: AdGuard Hostlists Registry
 ! Service ID: perplexity
-! Generated: 2026-04-08 06:43:39 UTC
+! Generated: 2026-04-09 06:43:29 UTC
 !
 ! This filter blocks domains related to Perplexity
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
