@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking OK.ru
 ! Source: AdGuard Hostlists Registry
 ! Service ID: ok
-! Generated: 2026-04-10 06:48:35 UTC
+! Generated: 2026-04-11 06:32:16 UTC
 !
 ! This filter blocks domains related to OK.ru
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json

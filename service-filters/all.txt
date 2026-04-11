@@ -1,7 +1,7 @@
 ! Title: All Services Block List
 ! Description: Combined AdGuard filter rules for blocking ALL services
 ! Source: AdGuard Hostlists Registry
-! Generated: 2026-04-10 06:48:36 UTC
+! Generated: 2026-04-11 06:32:17 UTC
 !
 ! This filter blocks domains for ALL available services.
 ! For individual service blocklists, see the README.md
@@ -2115,14 +2115,6 @@
 ||video-akpcw-cdn-spotify-com.akamaized.net^
 
 ! === Steam ===
-|steambroadcast.akamaized.net^
-|steamcdn-a.akamaihd.net^
-|steamcommunity-a.akamaihd.net^
-|steamstore-a.akamaihd.net^
-|steamusercontent-a.akamaihd.net^
-|steamuserimages-a.akamaihd.net^
-|steamvideo-a.akamaihd.net^
-|xz.pphimalayanrt.com^
 ||csgo.wmsj.cn^
 ||dl.steam.clngaa.com^
 ||dl.steam.ksyna.com^
@@ -2132,23 +2124,32 @@
 ||st.dl.bscstorage.net^
 ||st.dl.eccdnx.com^
 ||st.dl.pinyuncloud.com^
+||steambroadcast.akamaized.net^
 ||steam-api.com^
+||steamcdn-a.akamaihd.net^
 ||steam-chat.com^
 ||steamchina.com^
+||steamcommunity-a.akamaihd.net^
 ||steamcommunity.com^
 ||steamcontent.com^
 ||steamdeck.com^
 ||steamgames.com^
+||steampipe.akamaized.net^
 ||steampipe.steamcontent.tnkjmec.com^
-||steampowered.com.8686c.com^
 ||steampowered.com^
+||steampowered.com.8686c.com^
 ||steamserver.net^
-||steamstatic.com.8686c.com^
+||steamstore-a.akamaihd.net^
 ||steamstatic.com^
+||steamstatic.com.8686c.com^
+||steamusercontent-a.akamaihd.net^
 ||steamusercontent.com^
+||steamuserimages-a.akamaihd.net^
+||steamvideo-a.akamaihd.net^
 ||underlords.com^
 ||valvesoftware.com^
 ||wmsjsteam.com^
+||xz.pphimalayanrt.com^
 
 ! === Telegram (Web) ===
 ||comments.app^
