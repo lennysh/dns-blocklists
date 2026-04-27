@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Betfair
 ! Source: AdGuard Hostlists Registry
 ! Service ID: betfair
-! Generated: 2026-04-26 06:49:16 UTC
+! Generated: 2026-04-27 07:08:21 UTC
 !
 ! This filter blocks domains related to Betfair
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
