@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Epic Games
 ! Source: AdGuard Hostlists Registry
 ! Service ID: epic_games
-! Generated: 2026-04-27 07:08:21 UTC
+! Generated: 2026-04-28 07:08:00 UTC
 !
 ! This filter blocks domains related to Epic Games
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json

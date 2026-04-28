@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking 9GAG
 ! Source: AdGuard Hostlists Registry
 ! Service ID: 9gag
-! Generated: 2026-04-27 07:08:21 UTC
+! Generated: 2026-04-28 07:08:00 UTC
 !
 ! This filter blocks domains related to 9GAG
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
