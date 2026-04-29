@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Bilibili
 ! Source: AdGuard Hostlists Registry
 ! Service ID: bilibili
-! Generated: 2026-04-28 07:08:00 UTC
+! Generated: 2026-04-29 07:02:31 UTC
 !
 ! This filter blocks domains related to Bilibili
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
