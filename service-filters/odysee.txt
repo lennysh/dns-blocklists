@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Odysee
 ! Source: AdGuard Hostlists Registry
 ! Service ID: odysee
-! Generated: 2026-04-30 07:05:28 UTC
+! Generated: 2026-05-01 07:07:09 UTC
 !
 ! This filter blocks domains related to Odysee
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
