@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Shopee
 ! Source: AdGuard Hostlists Registry
 ! Service ID: shopee
-! Generated: 2026-05-13 07:17:59 UTC
+! Generated: 2026-05-14 07:14:18 UTC
 !
 ! This filter blocks domains related to Shopee
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
