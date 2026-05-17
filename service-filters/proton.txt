@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Proton
 ! Source: AdGuard Hostlists Registry
 ! Service ID: proton
-! Generated: 2026-05-16 06:58:29 UTC
+! Generated: 2026-05-17 07:10:04 UTC
 !
 ! This filter blocks domains related to Proton
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
