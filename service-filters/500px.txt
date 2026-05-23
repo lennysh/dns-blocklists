@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking 500px
 ! Source: AdGuard Hostlists Registry
 ! Service ID: 500px
-! Generated: 2026-05-22 07:28:35 UTC
+! Generated: 2026-05-23 07:06:48 UTC
 !
 ! This filter blocks domains related to 500px
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
