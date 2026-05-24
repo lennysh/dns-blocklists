@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking WhatsApp
 ! Source: AdGuard Hostlists Registry
 ! Service ID: whatsapp
-! Generated: 2026-05-23 07:06:51 UTC
+! Generated: 2026-05-24 07:18:26 UTC
 !
 ! This filter blocks domains related to WhatsApp
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
