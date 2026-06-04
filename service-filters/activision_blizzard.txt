@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Activision Blizzard
 ! Source: AdGuard Hostlists Registry
 ! Service ID: activision_blizzard
-! Generated: 2026-06-03 07:58:08 UTC
+! Generated: 2026-06-04 07:51:42 UTC
 !
 ! This filter blocks domains related to Activision Blizzard
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
