@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Xbox Live
 ! Source: AdGuard Hostlists Registry
 ! Service ID: xboxlive
-! Generated: 2026-06-08 08:02:00 UTC
+! Generated: 2026-06-09 07:29:24 UTC
 !
 ! This filter blocks domains related to Xbox Live
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
