@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Amino
 ! Source: AdGuard Hostlists Registry
 ! Service ID: amino
-! Generated: 2026-06-10 07:44:48 UTC
+! Generated: 2026-06-11 07:57:15 UTC
 !
 ! This filter blocks domains related to Amino
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
