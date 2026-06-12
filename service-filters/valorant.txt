@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Valorant
 ! Source: AdGuard Hostlists Registry
 ! Service ID: valorant
-! Generated: 2026-06-11 07:57:17 UTC
+! Generated: 2026-06-12 07:52:40 UTC
 !
 ! This filter blocks domains related to Valorant
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
