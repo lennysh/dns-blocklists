@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking FIFA
 ! Source: AdGuard Hostlists Registry
 ! Service ID: fifa
-! Generated: 2026-06-16 08:12:32 UTC
+! Generated: 2026-06-17 08:08:35 UTC
 !
 ! This filter blocks domains related to FIFA
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
