@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Tumblr
 ! Source: AdGuard Hostlists Registry
 ! Service ID: tumblr
-! Generated: 2026-06-29 08:03:18 UTC
+! Generated: 2026-06-30 07:33:06 UTC
 !
 ! This filter blocks domains related to Tumblr
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
