@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Rakuten Viki
 ! Source: AdGuard Hostlists Registry
 ! Service ID: rakuten_viki
-! Generated: 2026-07-09 10:02:52 UTC
+! Generated: 2026-07-10 09:48:42 UTC
 !
 ! This filter blocks domains related to Rakuten Viki
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
