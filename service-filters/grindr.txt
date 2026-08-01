@@ -1,0 +1,12 @@
+! Title: Grindr Block List
+! Description: AdGuard filter rules for blocking Grindr
+! Source: AdGuard Hostlists Registry
+! Service ID: grindr
+! Generated: 2026-08-01 08:30:09 UTC
+!
+! This filter blocks domains related to Grindr
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||grindr.com^
+||grindr.mobi^

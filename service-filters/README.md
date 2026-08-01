@@ -4,7 +4,7 @@ Individual DNS blocklists for specific services. Copy the raw URL for any servic
 
 > **Note:** This file is auto-generated. Do not edit manually.
 >
-> **Last updated:** 2026-07-31 09:11:39 UTC
+> **Last updated:** 2026-08-01 08:30:11 UTC
 
 ## Block Everything
 
@@ -12,7 +12,7 @@ Want to block ALL services at once? Use the combined blocklist:
 
 | Description | Raw URL |
 |-------------|---------|
-| **All Services Combined** (2287 rules) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/all.txt` |
+| **All Services Combined** (2289 rules) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/all.txt` |
 
 ---
 
@@ -70,6 +70,7 @@ Click on a service name to view the filter, or copy the raw URL to add to your D
 | [Gemini](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/gemini.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/gemini.txt` |
 | [Globoplay](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/globoplay.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/globoplay.txt` |
 | [GOG](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/gog.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/gog.txt` |
+| [Grindr](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/grindr.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/grindr.txt` |
 | [Grok](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/grok.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/grok.txt` |
 | [HBO Max](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/hbomax.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/hbomax.txt` |
 | [Hulu](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/hulu.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/hulu.txt` |
@@ -232,6 +233,7 @@ https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/fl
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/gemini.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/globoplay.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/gog.txt
+https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/grindr.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/grok.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/hbomax.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/hulu.txt
@@ -325,4 +327,4 @@ https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/zh
 
 ---
 
-**Total blocklists available:** 137 (including all.txt)
+**Total blocklists available:** 138 (including all.txt)
