@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Crunchyroll
 ! Source: AdGuard Hostlists Registry
 ! Service ID: crunchyroll
-! Generated: 2026-08-02 08:32:54 UTC
+! Generated: 2026-08-03 09:59:43 UTC
 !
 ! This filter blocks domains related to Crunchyroll
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
