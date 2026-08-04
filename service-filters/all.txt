@@ -1,7 +1,7 @@
 ! Title: All Services Block List
 ! Description: Combined AdGuard filter rules for blocking ALL services
 ! Source: AdGuard Hostlists Registry
-! Generated: 2026-08-03 09:59:46 UTC
+! Generated: 2026-08-04 08:49:17 UTC
 !
 ! This filter blocks domains for ALL available services.
 ! For individual service blocklists, see the README.md
@@ -1406,8 +1406,7 @@
 ||flickrpro.com^
 ||staticflickr.com^
 
-! === Gemini ===
-||gemini.com^
+! === Google Gemini ===
 ||gemini.google.com^
 
 ! === Globoplay ===

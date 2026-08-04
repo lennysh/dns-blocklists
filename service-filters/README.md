@@ -4,7 +4,7 @@ Individual DNS blocklists for specific services. Copy the raw URL for any servic
 
 > **Note:** This file is auto-generated. Do not edit manually.
 >
-> **Last updated:** 2026-08-03 09:59:47 UTC
+> **Last updated:** 2026-08-04 08:49:18 UTC
 
 ## Block Everything
 
@@ -12,7 +12,7 @@ Want to block ALL services at once? Use the combined blocklist:
 
 | Description | Raw URL |
 |-------------|---------|
-| **All Services Combined** (2289 rules) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/all.txt` |
+| **All Services Combined** (2288 rules) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/all.txt` |
 
 ---
 
@@ -67,7 +67,7 @@ Click on a service name to view the filter, or copy the raw URL to add to your D
 | [Facebook](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/facebook.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/facebook.txt` |
 | [FIFA](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/fifa.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/fifa.txt` |
 | [Flickr](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/flickr.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/flickr.txt` |
-| [Gemini](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/gemini.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/gemini.txt` |
+| [Google Gemini](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/gemini.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/gemini.txt` |
 | [Globoplay](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/globoplay.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/globoplay.txt` |
 | [GOG](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/gog.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/gog.txt` |
 | [Grindr](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/grindr.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/grindr.txt` |

@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking DeepSeek
 ! Source: AdGuard Hostlists Registry
 ! Service ID: deepseek
-! Generated: 2026-08-03 09:59:43 UTC
+! Generated: 2026-08-04 08:49:15 UTC
 !
 ! This filter blocks domains related to DeepSeek
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
