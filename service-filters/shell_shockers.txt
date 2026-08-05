@@ -1,0 +1,86 @@
+! Title: Shell Shockers Block List
+! Description: AdGuard filter rules for blocking Shell Shockers
+! Source: AdGuard Hostlists Registry
+! Service ID: shell_shockers
+! Generated: 2026-08-05 08:46:31 UTC
+!
+! This filter blocks domains related to Shell Shockers
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||algebra.best^
+||algebra.monster^
+||algebra.vip^
+||biologyclass.club^
+||combateggs.com^
+||deadlyegg.com^
+||deathegg.life^
+||deathegg.world^
+||egg.dance^
+||eggbattle.com^
+||eggboy.club^
+||eggboy.me^
+||eggboy.xyz^
+||eggcombat.com^
+||eggfacts.fun^
+||egggames.best^
+||egghead.institute^
+||eggisthenewblack.com^
+||eggsarecool.com^
+||eggshock.com^
+||eggshock.me^
+||eggshock.net^
+||eggshooter.best^
+||eggshooter.com^
+||eggwarfare.com^
+||eggwars.io^
+||geometry.best^
+||geometry.monster^
+||geometry.pw^
+||geometry.report^
+||hardboiled.life^
+||hardshell.life^
+||humanorganising.org^
+||math.international^
+||mathactivity.club^
+||mathactivity.xyz^
+||mathdrills.info^
+||mathdrills.life^
+||mathfun.rocks^
+||mathgames.world^
+||mathlete.fun^
+||mathlete.pro^
+||overeasy.club^
+||risenegg.com^
+||scrambled.tech^
+||scrambled.today^
+||scrambled.us^
+||scrambled.world^
+||shellgame.me^
+||shellplay.live^
+||shellshock.guru^
+||shellshock.io^
+||shellshockers.best^
+||shellshockers.ca^
+||shellshockers.club^
+||shellshockers.life^
+||shellshockers.site^
+||shellshockers.today^
+||shellshockers.us^
+||shellshockers.website^
+||shellshockers.wiki^
+||shellshockers.world^
+||shellshockers.xyz^
+||shellsocks.com^
+||softboiled.club^
+||urbanegger.com^
+||violentegg.club^
+||violentegg.fun^
+||yolk.best^
+||yolk.life^
+||yolk.monster^
+||yolk.quest^
+||yolk.rocks^
+||yolk.tech^
+||yolk.today^
+||zygote.cafe^

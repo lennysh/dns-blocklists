@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking ChatGPT
 ! Source: AdGuard Hostlists Registry
 ! Service ID: chatgpt
-! Generated: 2026-08-04 08:49:15 UTC
+! Generated: 2026-08-05 08:46:29 UTC
 !
 ! This filter blocks domains related to ChatGPT
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json

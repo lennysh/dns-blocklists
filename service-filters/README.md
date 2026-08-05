@@ -4,7 +4,7 @@ Individual DNS blocklists for specific services. Copy the raw URL for any servic
 
 > **Note:** This file is auto-generated. Do not edit manually.
 >
-> **Last updated:** 2026-08-04 08:49:18 UTC
+> **Last updated:** 2026-08-05 08:46:32 UTC
 
 ## Block Everything
 
@@ -12,7 +12,7 @@ Want to block ALL services at once? Use the combined blocklist:
 
 | Description | Raw URL |
 |-------------|---------|
-| **All Services Combined** (2288 rules) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/all.txt` |
+| **All Services Combined** (2395 rules) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/all.txt` |
 
 ---
 
@@ -65,6 +65,7 @@ Click on a service name to view the filter, or copy the raw URL to add to your D
 | [Epic Games](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/epic_games.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/epic_games.txt` |
 | [ESPN](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/espn.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/espn.txt` |
 | [Facebook](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/facebook.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/facebook.txt` |
+| [FDJ United](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/fdj_united.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/fdj_united.txt` |
 | [FIFA](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/fifa.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/fifa.txt` |
 | [Flickr](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/flickr.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/flickr.txt` |
 | [Google Gemini](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/gemini.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/gemini.txt` |
@@ -125,6 +126,7 @@ Click on a service name to view the filter, or copy the raw URL to add to your D
 | [Rockstar Games](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/rockstar_games.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/rockstar_games.txt` |
 | [Samsung TV Plus](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/samsung_tv_plus.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/samsung_tv_plus.txt` |
 | [Shein](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/shein.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/shein.txt` |
+| [Shell Shockers](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/shell_shockers.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/shell_shockers.txt` |
 | [Shopee](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/shopee.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/shopee.txt` |
 | [Signal](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/signal.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/signal.txt` |
 | [Skype](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/skype.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/skype.txt` |
@@ -228,6 +230,7 @@ https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/el
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/epic_games.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/espn.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/facebook.txt
+https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/fdj_united.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/fifa.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/flickr.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/gemini.txt
@@ -288,6 +291,7 @@ https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/ro
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/rockstar_games.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/samsung_tv_plus.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/shein.txt
+https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/shell_shockers.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/shopee.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/signal.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/skype.txt
@@ -327,4 +331,4 @@ https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/zh
 
 ---
 
-**Total blocklists available:** 138 (including all.txt)
+**Total blocklists available:** 140 (including all.txt)
