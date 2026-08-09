@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Grok
 ! Source: AdGuard Hostlists Registry
 ! Service ID: grok
-! Generated: 2026-08-08 07:04:18 UTC
+! Generated: 2026-08-09 07:06:34 UTC
 !
 ! This filter blocks domains related to Grok
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
