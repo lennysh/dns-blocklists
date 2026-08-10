@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Flickr
 ! Source: AdGuard Hostlists Registry
 ! Service ID: flickr
-! Generated: 2026-08-09 07:06:34 UTC
+! Generated: 2026-08-10 07:54:45 UTC
 !
 ! This filter blocks domains related to Flickr
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
