@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Google Gemini
 ! Source: AdGuard Hostlists Registry
 ! Service ID: gemini
-! Generated: 2026-08-20 06:56:55 UTC
+! Generated: 2026-08-21 06:58:20 UTC
 !
 ! This filter blocks domains related to Google Gemini
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
