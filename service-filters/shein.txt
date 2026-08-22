@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Shein
 ! Source: AdGuard Hostlists Registry
 ! Service ID: shein
-! Generated: 2026-08-21 06:58:22 UTC
+! Generated: 2026-08-22 06:51:40 UTC
 !
 ! This filter blocks domains related to Shein
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
