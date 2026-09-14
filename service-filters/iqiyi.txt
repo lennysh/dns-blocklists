@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking iQIYI
 ! Source: AdGuard Hostlists Registry
 ! Service ID: iqiyi
-! Generated: 2026-09-13 11:36:07 UTC
+! Generated: 2026-09-14 12:30:08 UTC
 !
 ! This filter blocks domains related to iQIYI
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
