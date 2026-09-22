@@ -1,11 +1,12 @@
-! Title: Pluto TV Block List
-! Description: AdGuard filter rules for blocking Pluto TV
+! Title: Qwen Block List
+! Description: AdGuard filter rules for blocking Qwen
 ! Source: AdGuard Hostlists Registry
-! Service ID: pluto_tv
+! Service ID: qwen
 ! Generated: 2026-09-22 11:23:31 UTC
 !
-! This filter blocks domains related to Pluto TV
+! This filter blocks domains related to Qwen
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
 !
 
-||pluto.tv^
+||qwen.ai^
+||qwenlm.ai^

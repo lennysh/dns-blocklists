@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Origin
 ! Source: AdGuard Hostlists Registry
 ! Service ID: origin
-! Generated: 2026-09-21 12:36:12 UTC
+! Generated: 2026-09-22 11:23:30 UTC
 !
 ! This filter blocks domains related to Origin
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json

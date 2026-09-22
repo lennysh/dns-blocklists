@@ -4,7 +4,7 @@ Individual DNS blocklists for specific services. Copy the raw URL for any servic
 
 > **Note:** This file is auto-generated. Do not edit manually.
 >
-> **Last updated:** 2026-09-21 12:36:14 UTC
+> **Last updated:** 2026-09-22 11:23:32 UTC
 
 ## Block Everything
 
@@ -12,7 +12,7 @@ Want to block ALL services at once? Use the combined blocklist:
 
 | Description | Raw URL |
 |-------------|---------|
-| **All Services Combined** (2395 rules) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/all.txt` |
+| **All Services Combined** (2402 rules) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/all.txt` |
 
 ---
 
@@ -58,6 +58,7 @@ Click on a service name to view the filter, or copy the raw URL to add to your D
 | [Discord](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/discord.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/discord.txt` |
 | [Discovery+](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/discoveryplus.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/discoveryplus.txt` |
 | [Disney+](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/disneyplus.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/disneyplus.txt` |
+| [Dola](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/dola.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/dola.txt` |
 | [Douban](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/douban.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/douban.txt` |
 | [Dropbox](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/dropbox.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/dropbox.txt` |
 | [eBay](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/ebay.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/ebay.txt` |
@@ -119,6 +120,8 @@ Click on a service name to view the filter, or copy the raw URL to add to your D
 | [Privacy](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/privacy.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/privacy.txt` |
 | [Proton](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/proton.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/proton.txt` |
 | [QQ](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/qq.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/qq.txt` |
+| [QuestionAI](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/questionai.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/questionai.txt` |
+| [Qwen](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/qwen.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/qwen.txt` |
 | [Rakuten Viki](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/rakuten_viki.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/rakuten_viki.txt` |
 | [Reddit](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/reddit.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/reddit.txt` |
 | [Riot Games](https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/riot_games.txt) | `https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/riot_games.txt` |
@@ -223,6 +226,7 @@ https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/di
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/discord.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/discoveryplus.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/disneyplus.txt
+https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/dola.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/douban.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/dropbox.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/ebay.txt
@@ -284,6 +288,8 @@ https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/pl
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/privacy.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/proton.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/qq.txt
+https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/questionai.txt
+https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/qwen.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/rakuten_viki.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/reddit.txt
 https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/riot_games.txt
@@ -331,4 +337,4 @@ https://raw.githubusercontent.com/lennysh/dns-blocklists/main/service-filters/zh
 
 ---
 
-**Total blocklists available:** 140 (including all.txt)
+**Total blocklists available:** 143 (including all.txt)

@@ -1,0 +1,12 @@
+! Title: QuestionAI Block List
+! Description: AdGuard filter rules for blocking QuestionAI
+! Source: AdGuard Hostlists Registry
+! Service ID: questionai
+! Generated: 2026-09-22 11:23:31 UTC
+!
+! This filter blocks domains related to QuestionAI
+! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
+!
+
+||questionai.ai^
+||questionai.com^

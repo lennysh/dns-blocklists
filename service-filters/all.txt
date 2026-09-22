@@ -1,7 +1,7 @@
 ! Title: All Services Block List
 ! Description: Combined AdGuard filter rules for blocking ALL services
 ! Source: AdGuard Hostlists Registry
-! Generated: 2026-09-21 12:36:13 UTC
+! Generated: 2026-09-22 11:23:32 UTC
 !
 ! This filter blocks domains for ALL available services.
 ! For individual service blocklists, see the README.md
@@ -561,6 +561,11 @@
 ||hotstar.com^
 ||star.playback.edge.bamgrid.com^
 ||starplus.com^
+
+! === Dola ===
+||dola.com^
+||ciciai.com^
+||cici.com^
 
 ! === Douban ===
 ||douban.com^
@@ -2012,6 +2017,14 @@
 ||qq.com^$denyallow=wx.qq.com|weixin.qq.com
 ||qq-video.cdn-go.cn^
 ||url.cn^
+
+! === QuestionAI ===
+||questionai.ai^
+||questionai.com^
+
+! === Qwen ===
+||qwen.ai^
+||qwenlm.ai^
 
 ! === Rakuten Viki ===
 ||viki.com^
