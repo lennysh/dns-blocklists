@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Mercado Libre
 ! Source: AdGuard Hostlists Registry
 ! Service ID: mercado_libre
-! Generated: 2026-09-24 11:32:40 UTC
+! Generated: 2026-09-25 11:39:22 UTC
 !
 ! This filter blocks domains related to Mercado Libre
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
