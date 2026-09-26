@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Qwen
 ! Source: AdGuard Hostlists Registry
 ! Service ID: qwen
-! Generated: 2026-09-25 11:39:23 UTC
+! Generated: 2026-09-26 11:13:03 UTC
 !
 ! This filter blocks domains related to Qwen
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
