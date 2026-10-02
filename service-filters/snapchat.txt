@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Snapchat
 ! Source: AdGuard Hostlists Registry
 ! Service ID: snapchat
-! Generated: 2026-10-01 12:57:41 UTC
+! Generated: 2026-10-02 12:19:47 UTC
 !
 ! This filter blocks domains related to Snapchat
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
