@@ -1,7 +1,7 @@
 ! Title: All Services Block List
 ! Description: Combined AdGuard filter rules for blocking ALL services
 ! Source: AdGuard Hostlists Registry
-! Generated: 2026-10-04 12:11:02 UTC
+! Generated: 2026-10-05 14:20:56 UTC
 !
 ! This filter blocks domains for ALL available services.
 ! For individual service blocklists, see the README.md
@@ -2332,11 +2332,15 @@
 ||tiktok.com^
 ||tiktokcdn.com^
 ||tiktokv.com^
+||tiktokv.eu^
 ||tiktokcdn-us.com^
 ||ttlivecdn.com.c.bytefcdn-oversea.com^
 ||ttlivecdn.com^
 ||p16-tiktok-*.ibyteimg.com^
-||v*.tiktokcdn-eu.com^
+||tiktokcdn-eu.com^
+||tiktokcdn-eu.com.ttdns3.com^
+||tiktok.tps.dv.tech^
+||tiktokv.*.edgesuite.net^
 ||zijieapi.com^
 ||tiktokrow-cdn.com^
 
