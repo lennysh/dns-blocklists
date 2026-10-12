@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Bigo Live
 ! Source: AdGuard Hostlists Registry
 ! Service ID: bigo_live
-! Generated: 2026-10-11 12:35:19 UTC
+! Generated: 2026-10-12 15:08:16 UTC
 !
 ! This filter blocks domains related to Bigo Live
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
