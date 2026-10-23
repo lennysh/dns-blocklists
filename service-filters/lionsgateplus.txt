@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Lionsgate+
 ! Source: AdGuard Hostlists Registry
 ! Service ID: lionsgateplus
-! Generated: 2026-10-22 11:35:55 UTC
+! Generated: 2026-10-23 11:25:07 UTC
 !
 ! This filter blocks domains related to Lionsgate+
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
