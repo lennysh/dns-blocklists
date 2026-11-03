@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Wizz
 ! Source: AdGuard Hostlists Registry
 ! Service ID: wizz
-! Generated: 2026-11-02 15:29:26 UTC
+! Generated: 2026-11-03 13:58:54 UTC
 !
 ! This filter blocks domains related to Wizz
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
