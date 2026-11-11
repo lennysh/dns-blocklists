@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Roblox
 ! Source: AdGuard Hostlists Registry
 ! Service ID: roblox
-! Generated: 2026-11-10 14:42:53 UTC
+! Generated: 2026-11-11 14:01:43 UTC
 !
 ! This filter blocks domains related to Roblox
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
