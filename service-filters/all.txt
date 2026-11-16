@@ -1,7 +1,7 @@
 ! Title: All Services Block List
 ! Description: Combined AdGuard filter rules for blocking ALL services
 ! Source: AdGuard Hostlists Registry
-! Generated: 2026-11-15 13:48:25 UTC
+! Generated: 2026-11-16 15:30:20 UTC
 !
 ! This filter blocks domains for ALL available services.
 ! For individual service blocklists, see the README.md
