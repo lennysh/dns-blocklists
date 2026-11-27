@@ -2,7 +2,7 @@
 ! Description: AdGuard filter rules for blocking Wargaming
 ! Source: AdGuard Hostlists Registry
 ! Service ID: wargaming
-! Generated: 2026-11-26 16:43:20 UTC
+! Generated: 2026-11-27 16:29:19 UTC
 !
 ! This filter blocks domains related to Wargaming
 ! Rules are sourced from: https://adguardteam.github.io/HostlistsRegistry/assets/services.json
